@@ -2,7 +2,7 @@
 
 **## Android开源库的发布 ##**
 
-[优雅的发布Android开源库(论JitPack的优越性)](http://www.jianshu.com/p/4cfa850c01f5 "优雅的发布Android开源库(论JitPack的优越性)")
+[优雅的发布Android开源库(论JitPack的优越性)](http://www.jianshu.com/p/4cfa850c01f5)
 
 
 **## 开源协议 ##**
