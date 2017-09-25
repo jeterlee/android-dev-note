@@ -1,6 +1,8 @@
 # AndroidDevNote
 
-**说明：Android开发笔记，优秀的文章分享。**
+**项目说明：Android开发笔记，常用框架，优秀的文章分享。**
+
+![Android流行框架大全](https://github.com/Jeterlee/AndroidDevNote/blob/master/images/Android%E6%B5%81%E8%A1%8C%E6%A1%86%E6%9E%B6%E5%A4%A7%E5%85%A8.jpg)
 
 
 ## 目录结构
@@ -14,6 +16,7 @@
 - [利用Bintray五分钟上传Android library到JCenter](http://www.jianshu.com/p/eb44c482b464)
 
 ---
+
 
 <h2 id="20170921002">开源协议</h2>
 
