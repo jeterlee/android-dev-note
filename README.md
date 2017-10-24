@@ -6,8 +6,16 @@
 
 
 ## 目录结构
+- [Android开源项目](#20171024001)
 - [Android开源库的发布](#20170921001)
 - [开源协议](#20170921002)
+
+
+<h2 id="20171024001">Android开源项目</h2>
+
+- [Android开源项目第三篇——优秀项目篇](http://www.trinea.cn/android/android-open-source-projects-excellent-project/)
+
+---
 
 
 <h2 id="20170921001">Android开源库的发布</h2>
