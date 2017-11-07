@@ -1,15 +1,34 @@
 # AndroidDevNote
 
-**项目说明：Android开发笔记，常用框架，优秀的文章分享。**
-
-![Android流行框架大全](https://github.com/Jeterlee/AndroidDevNote/blob/master/images/Android%E6%B5%81%E8%A1%8C%E6%A1%86%E6%9E%B6%E5%A4%A7%E5%85%A8.jpg)
+**项目说明：Android开发笔记，常用框架，问题收集，优秀的文章分享。**
 
 
 ## 目录结构
+- [Android基础](#20171107001)
+- [Android组件和控件](#20171107002)
+- [Android Material Designer](#20171107003)
+- [Android流行框架](#20171107004)
 - [Android开源项目](#20171024001)
-- [AndroidStudio插件](#20171025001)
+- [Android项目](#20171107005)
+- [Android智能家具](#20171107006)
+- [Android第三方插件](#20171107007)
+- [AndroidStudio](#20171025001)
 - [Android开源库的发布](#20170921001)
-- [开源协议](#20170921002)
+- [Android开源协议](#20170921002)
+- [Android其他](#20171107008)
+
+
+<h2 id="20171107001">Android基础</h2>
+
+<h2 id="20171107002">Android组件和控件</h2>
+
+<h2 id="20171107003">Android Material Designer</h2>
+
+<h2 id="20171107004">Android流行框架</h2>
+
+![Android流行框架大全](https://github.com/Jeterlee/AndroidDevNote/blob/master/images/Android%E6%B5%81%E8%A1%8C%E6%A1%86%E6%9E%B6%E5%A4%A7%E5%85%A8.jpg)
+
+---
 
 
 <h2 id="20171024001">Android开源项目</h2>
@@ -19,7 +38,13 @@
 ---
 
 
-<h2 id="20171025001">AndroidStudio插件</h2>
+<h2 id="20171107005">Android项目</h2>
+
+<h2 id="20171107006">Android智能家具</h2>
+
+<h2 id="20171107007">Android第三方插件</h2>
+
+<h2 id="20171025001">AndroidStudio</h2>
 
 - [AndroidStudio上面最好用的插件](http://www.jianshu.com/p/d76b60a3883d)
 - [图文并茂全面总结Android Studio好用的插件(IDE通用)](http://www.jianshu.com/p/269a48d7508d)
@@ -35,12 +60,15 @@
 ---
 
 
-<h2 id="20170921002">开源协议</h2>
+<h2 id="20170921002">Android开源协议</h2>
 
 - [程序员都应该懂一点开源协议](http://blog.csdn.net/growing_tree/article/details/77888457)
 - [选择一个开源软件协议(添加开源软件协议)](http://choosealicense.online/)
 
 ---
+
+
+<h2 id="20171107008">Android开源协议</h2>
 
 
 # License
