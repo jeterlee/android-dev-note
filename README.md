@@ -8,6 +8,7 @@
 - [Android组件和控件](#20171107002)
 - [Android Material Designer](#20171107003)
 - [Android流行框架](#20171107004)
+- [Android设计模式](#20171108001)
 - [Android开源项目](#20171024001)
 - [Android项目](#20171107005)
 - [Android智能家具](#20171107006)
@@ -28,6 +29,13 @@
 <h2 id="20171107004">Android流行框架</h2>
 
 ![Android流行框架大全](https://github.com/Jeterlee/AndroidDevNote/blob/master/images/Android%E6%B5%81%E8%A1%8C%E6%A1%86%E6%9E%B6%E5%A4%A7%E5%85%A8.jpg)
+
+---
+
+
+<h2 id="20171108001">Android设计模式</h2>
+
+- [设计模式](http://www.cnblogs.com/longjunhao/category/880473.html)
 
 ---
 
