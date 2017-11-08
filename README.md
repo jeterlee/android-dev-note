@@ -6,7 +6,7 @@
 ## 目录结构
 - [一、Android基础](#20171107001)
 - [二、Android组件和控件](#20171107002)
-  - [1、CoordinatorLayout](#20171108002)
+  - [1、CoordinatorLayout](#20171108002)
 - [三、Android Material Designer](#20171107003)
 - [四、Android流行框架](#20171107004)
 - [五、Android设计模式](#20171108001)
