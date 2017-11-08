@@ -92,6 +92,10 @@
 
 <h2 id="20171107009">十四、Android其他</h2>
 
+- [GitHub Wiki 页面的添加和设置](http://www.jianshu.com/p/c187fd088b71)
+
+---
+
 
 # License
 
