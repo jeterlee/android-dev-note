@@ -5,6 +5,7 @@
 
 ## 目录结构
 - [一、Android基础](#20171107001)
+  - [1.1、测试工具](#20171108004)
 - [二、Android组件和控件](#20171107002)
   - [2.1、CoordinatorLayout](#20171108002)
 - [三、Android Material Designer](#20171107003)
@@ -23,6 +24,14 @@
 
 
 <h2 id="20171107001">一、Android基础</h2>
+
+<h3 id="20171108004">1.1、测试工具</h3>
+
+- [**leakcanary**](https://github.com/square/leakcanary)
+- [**AndroidPerformanceMonitor**](https://github.com/markzhai/AndroidPerformanceMonitor)
+
+---
+
 
 <h2 id="20171107002">二、Android组件和控件</h2>
 
