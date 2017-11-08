@@ -6,7 +6,7 @@
 ## 目录结构
 - [一、Android基础](#20171107001)
 - [二、Android组件和控件](#20171107002)
-  - [1、CoordinatorLayout](#20171108002)
+  - [2.1、CoordinatorLayout](#20171108002)
 - [三、Android Material Designer](#20171107003)
 - [四、Android流行框架](#20171107004)
 - [五、Android设计模式](#20171108001)
@@ -25,7 +25,7 @@
 
 <h2 id="20171107002">二、Android组件和控件</h2>
 
-<h3 id="20171108002">1、CoordinatorLayout</h3>
+<h3 id="20171108002">2.1、CoordinatorLayout</h3>
 
 - [使用CoordinatorLayout打造各种炫酷的效果](http://blog.csdn.net/gdutxiaoxu/article/details/52858598)
 - [CoordinatorLayout与Behavior的实际使用(二)](http://www.jianshu.com/p/49ef43f8f077)
