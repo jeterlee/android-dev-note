@@ -101,6 +101,11 @@
 <h2 id="20171107008">十三、Android面试</h2>
 
 - [我的 Android 面试故事（2017下半年）](http://blog.csdn.net/mabeijianxi/article/details/78452325)
+- [用Markdown写一份简历](http://www.jianshu.com/p/a8d229da38f1)
+- [Markdown 适合写个人简历吗？](https://www.zhihu.com/question/20546890)
+- [DeerResume：在线MarkDown简历工具](http://get.ftqq.com/745.get)
+- [DeerResume](https://github.com/geekcompany/DeerResume)
+- [ResumeSample](https://github.com/geekcompany/ResumeSample)
 
 ---
 
@@ -115,6 +120,7 @@
 <h2 id="20171107009">十五、Android其他</h2>
 
 - [GitHub Wiki 页面的添加和设置](http://www.jianshu.com/p/c187fd088b71)
+- [Markdown 语法说明 (简体中文版) ](http://wowubuntu.com/markdown/#list)
 
 ---
 
