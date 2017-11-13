@@ -132,6 +132,9 @@
 - [高级语法格式](http://www.cnblogs.com/yabin/p/6366176.html)
 - [一段JS代码让Markdown自动生成侧边栏目录](http://www.jianshu.com/p/34c92cbd0aaf/)
 - [原来Github上的README.md文件这么有意思——Markdown语言详解](http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819)
+- [GitBook入门（用github做出第一本书）——超详细配图说明](http://www.jianshu.com/p/fa38ef97431d)
+- [GitBook关联GitHub](https://segmentfault.com/a/1190000011440899)
+- [gitbook使用教程（与github关联）](http://blog.csdn.net/snail_ren/article/details/53318564)
 
 ---
 
