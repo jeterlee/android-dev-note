@@ -1,8 +1,6 @@
 ## 十五、Android其他
 
-- [GitHub Wiki 页面的添加和设置](http://www.jianshu.com/p/c187fd088b71)
-- [GitHub 徽标的官方网站](http://shields.io/)
-- [GitHub 项目徽章的添加和设置](http://www.jianshu.com/p/e9ce56cb24ef)
+
 - [Markdown 语法说明 (简体中文版) ](http://wowubuntu.com/markdown/#list)
 - [Markdown 语法手册 （完整整理版）](http://blog.leanote.com/post/freewalk/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C#index)
 - [Markdown进阶语法整理](http://www.jianshu.com/p/0b257de21eb5)
