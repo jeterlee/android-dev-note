@@ -27,16 +27,9 @@
 
 
 
-<h2 id="20171108001">五、Android设计模式</h2>
-
-
-
----
-
-
 <h2 id="20171024001">六、Android开源项目</h2>
 
-- [Android开源项目第三篇——优秀项目篇](http://www.trinea.cn/android/android-open-source-projects-excellent-project/)
+
 
 ---
 
