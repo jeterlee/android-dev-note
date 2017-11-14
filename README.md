@@ -26,24 +26,9 @@
 - [十五、Android其他](#20171107009)
 
 
-
-<h2 id="20171024001">六、Android开源项目</h2>
-
-
-
----
-
-
-<h2 id="20171107005">七、Android项目</h2>
-
-<h2 id="20171107006">八、Android智能家具</h2>
-
-<h2 id="20171107007">九、Android第三方插件</h2>
-
 <h2 id="20171025001">十、AndroidStudio</h2>
 
-- [AndroidStudio上面最好用的插件](http://www.jianshu.com/p/d76b60a3883d)
-- [图文并茂全面总结Android Studio好用的插件(IDE通用)](http://www.jianshu.com/p/269a48d7508d)
+
 
 ---
 
