@@ -27,17 +27,10 @@
 
 
 
-<h2 id="20170921001">十一、Android开源库的发布</h2>
-
-
-
----
-
 
 <h2 id="20170921002">十二、Android开源协议</h2>
 
-- [程序员都应该懂一点开源协议](http://blog.csdn.net/growing_tree/article/details/77888457)
-- [选择一个开源软件协议(添加开源软件协议)](http://choosealicense.online/)
+
 
 ---
 
