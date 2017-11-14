@@ -4,6 +4,7 @@
 * [一、Android基础](document/chapter1.md)
   * [1.1、测试工具](document/chapter1/testtool.md)
 * [二、Android组件和控件](document/chapter2.md)
+  * [2.1、CoordinatorLayout](document/chapter2/coordinatorlayout.md)
 * [三、Android Material Designer](document/chapter3.md)
 * [四、Android流行框架](document/chapter4.md)
 * [五、Android设计模式](document/chapter5.md)
