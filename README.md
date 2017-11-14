@@ -1,5 +1,4 @@
 # AndroidDevNote
-
 **项目说明：Android开发笔记，常用框架，问题收集，优秀的文章分享。**
 
 
