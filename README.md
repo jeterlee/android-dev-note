@@ -26,36 +26,10 @@
 - [十五、Android其他](#20171107009)
 
 
-<h2 id="20171107001">一、Android基础</h2>
-
-<h3 id="20171108004">1.1、测试工具</h3>
-
-
----
-
-
-<h2 id="20171107002">二、Android组件和控件</h2>
-
-<h3 id="20171108002">2.1、CoordinatorLayout</h3>
-
-
-
----
-
-
-<h2 id="20171107003">三、Android Material Designer</h2>
-
-<h2 id="20171107004">四、Android流行框架</h2>
-
-
-
----
-
 
 <h2 id="20171108001">五、Android设计模式</h2>
 
-- [设计模式](http://www.cnblogs.com/longjunhao/category/880473.html)
-- [Android DataBinding介绍（一）——简介、数据及方法事件绑定](http://blog.csdn.net/victor_fang/article/details/54668326)
+
 
 ---
 
