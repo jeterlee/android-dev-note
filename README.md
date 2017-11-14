@@ -3,7 +3,7 @@
 
 
 # 附加gitbook快速阅读地址
-https://jeterleebook.gitbooks.io/android-dev-note/
+[https://jeterleebook.gitbooks.io/android-dev-note/](https://jeterleebook.gitbooks.io/android-dev-note/)
 
 
 ## 目录结构
@@ -28,8 +28,6 @@ https://jeterleebook.gitbooks.io/android-dev-note/
 - [十四、优秀的博客](#20171108003)
 - [十五、Android其他](#20171107009)
 
----
-
 
 # License
 
@@ -47,4 +45,4 @@ https://jeterleebook.gitbooks.io/android-dev-note/
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-```
+``
