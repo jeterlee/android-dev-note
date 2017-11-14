@@ -12,4 +12,5 @@
 * [九、Android第三方插件](chapter9.md)
 * [十、AndroidStudio](chapter10.md)
 * [十一、Android开源库的发布](chapter11.md)
+* [十二、Android开源协议](chapter12.md)
 
