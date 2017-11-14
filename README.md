@@ -30,8 +30,6 @@
 
 <h3 id="20171108004">1.1、测试工具</h3>
 
-- [**leakcanary**](https://github.com/square/leakcanary)
-- [**AndroidPerformanceMonitor**](https://github.com/markzhai/AndroidPerformanceMonitor)
 
 ---
 
