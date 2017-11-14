@@ -8,4 +8,6 @@
 * [五、Android设计模式](chapter5.md)
 * [六、Android开源项目](chapter6.md)
 * [七、Android项目](chapter7.md)
+* [八、Android智能家具](chapter8.md)
+* [九、Android第三方插件](chapter9.md)
 
