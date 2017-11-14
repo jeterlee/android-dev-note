@@ -22,4 +22,6 @@
 * [十四、优秀的博客](document/chapter14.md)
 * [十五、Android其他](document/chapter15.md)
   * [15.1、GitHub](document/chapter15/github.md)
+  * [15.2、GitBook](document/chapter15/gitbook.md)
+  * [15.3、MarkDown](document/chapter15/markdown.md)
 
