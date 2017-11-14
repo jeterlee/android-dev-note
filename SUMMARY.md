@@ -11,4 +11,5 @@
 * [八、Android智能家具](chapter8.md)
 * [九、Android第三方插件](chapter9.md)
 * [十、AndroidStudio](chapter10.md)
+* [十一、Android开源库的发布](chapter11.md)
 
