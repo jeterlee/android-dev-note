@@ -7,4 +7,5 @@
 * [四、Android流行框架](chapter4.md)
 * [五、Android设计模式](chapter5.md)
 * [六、Android开源项目](chapter6.md)
+* [七、Android项目](chapter7.md)
 
