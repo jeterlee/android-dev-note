@@ -10,8 +10,8 @@
 
 
 ## 目录结构
-- [一、Android基础](#20171107001)
-  - [1.1、测试工具](#20171108004)
+- [一、Android基础](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1.md)
+  - [1.1、测试工具](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/testtool.md)
 - [二、Android组件和控件](#20171107002)
   - [2.1、CoordinatorLayout](#20171108002)
 - [三、Android Material Designer](#20171107003)
