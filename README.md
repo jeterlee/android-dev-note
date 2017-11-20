@@ -1,15 +1,21 @@
 # AndroidDevNote
 **项目说明：Android开发笔记，常用框架，问题收集，优秀的文章分享。**
 
-
 ## 持续更新中...
 
-
-# 附加gitbook快速阅读地址
+## 附加gitbook快速阅读地址
 [https://jeterleebook.gitbooks.io/android-dev-note/](https://jeterleebook.gitbooks.io/android-dev-note/)
 
 
-## 目录结构
+## 模块链接
+Name|Reposity|Remark
+|:-:|:--:|:-:|
+|RxBucket（Rx全家桶）|[https://github.com/jeterlee/RxBucket](https://github.com/jeterlee/RxBucket)||
+|HotFixFamily（热修复家族）|[https://github.com/jeterlee/HotFixFamily](https://github.com/jeterlee/HotFixFamily)||
+|面试（Android、前端、Java）|[https://github.com/jeterlee/awesome-interview](https://github.com/jeterlee/awesome-interview)||
+
+
+## 目录结构（主要为资料链接和博客）
 - [一、Android基础](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1.md)
   - [1.1、测试工具](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/testtool.md)
 - [二、Android组件和控件](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2.md)
