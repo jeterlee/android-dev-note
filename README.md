@@ -13,6 +13,7 @@ Name|Reposity|Remark
 Kotlin（开发笔记）|[https://github.com/jeterlee/kotlin-dev-note](https://github.com/jeterlee/kotlin-dev-note)|
 RxBucket（Rx全家桶）|[https://github.com/jeterlee/RxBucket](https://github.com/jeterlee/RxBucket)|
 HotFixFamily（热修复家族）|[https://github.com/jeterlee/HotFixFamily](https://github.com/jeterlee/HotFixFamily)|
+Load picture framework（图片加载框架）|[https://github.com/jeterlee/load-picture-framework](https://github.com/jeterlee/load-picture-framework)|
 面试（Android、前端、Java）|[https://github.com/jeterlee/awesome-interview](https://github.com/jeterlee/awesome-interview)|
 
 
