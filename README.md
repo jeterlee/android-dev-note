@@ -25,6 +25,10 @@ Name|Project|Remark
 zscan|[https://github.com/jeterlee/zscan](https://github.com/jeterlee/zscan)|正在验证中。。。
 
 
+## 资料参考
+重点推荐：[**AndroidLibs**](https://github.com/XXApple/AndroidLibs)
+
+
 ## 目录结构（主要为资料链接和博客）
 - [一、Android基础](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1.md)
   - [1.1、测试工具](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/testtool.md)
