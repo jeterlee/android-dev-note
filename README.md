@@ -48,7 +48,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 - [八、Android智能家具](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter8.md)
 - [九、Android第三方插件](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter9.md)
 - [十、AndroidStudio](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10.md)
-  - [10.1、Gradle与Groovy]()
+  - [10.1、Gradle与Groovy](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10/groovy.md)
 - [十一、Android开源库的发布](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter11.md)
 - [十二、Android开源协议](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter12.md)
 - [十三、Android面试](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter13.md)
