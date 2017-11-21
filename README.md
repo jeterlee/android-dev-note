@@ -25,6 +25,7 @@ Android性能优化||待定中。。。
 Name|Project|Remark
 |:-:|:--:|:-:|
 zscan|[https://github.com/jeterlee/zscan](https://github.com/jeterlee/zscan)|正在验证中。。。
+msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.com/jeterlee/msi-SmartFactory)|打算重构。。。
 
 
 ## 资料参考
