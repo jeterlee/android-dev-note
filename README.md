@@ -11,8 +11,10 @@
 Name|Reposity|Remark
 |:-:|:--:|:-:|
 Kotlin（开发笔记）|[https://github.com/jeterlee/kotlin-dev-note](https://github.com/jeterlee/kotlin-dev-note)|
+Gradle（groovy语法）|[https://github.com/jeterlee/gradle-dev-note](https://github.com/jeterlee/gradle-dev-note)|
 RxBucket（Rx全家桶）|[https://github.com/jeterlee/RxBucket](https://github.com/jeterlee/RxBucket)|
 HotFixFamily（热修复家族）|[https://github.com/jeterlee/HotFixFamily](https://github.com/jeterlee/HotFixFamily)|
+Network request framework（网络请求框架）|[https://github.com/jeterlee/network-request-framework](https://github.com/jeterlee/network-request-framework)|
 Load picture framework（图片加载框架）|[https://github.com/jeterlee/load-picture-framework](https://github.com/jeterlee/load-picture-framework)|
 面试（Android、前端、Java）|[https://github.com/jeterlee/awesome-interview](https://github.com/jeterlee/awesome-interview)|
 
