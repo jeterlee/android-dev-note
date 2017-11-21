@@ -16,6 +16,7 @@
 * [八、Android智能家具](document/chapter8.md)
 * [九、Android第三方插件](document/chapter9.md)
 * [十、AndroidStudio](document/chapter10.md)
+  * [10.1、Gradle与Groovy](document/chapter10/groovy.md)
 * [十一、Android开源库的发布](document/chapter11.md)
 * [十二、Android开源协议](document/chapter12.md)
 * [十三、Android面试](document/chapter13.md)
