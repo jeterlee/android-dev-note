@@ -17,6 +17,7 @@ HotFixFamily（热修复家族）|[https://github.com/jeterlee/HotFixFamily](htt
 Network request framework（网络请求框架）|[https://github.com/jeterlee/network-request-framework](https://github.com/jeterlee/network-request-framework)|
 Load picture framework（图片加载框架）|[https://github.com/jeterlee/load-picture-framework](https://github.com/jeterlee/load-picture-framework)|
 Database（数据库的学习使用）|[https://github.com/jeterlee/database-framework](https://github.com/jeterlee/database-framework)|
+Android性能优化||待定中。。。
 面试（Android、前端、Java）|[https://github.com/jeterlee/awesome-interview](https://github.com/jeterlee/awesome-interview)|
 
 
