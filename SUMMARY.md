@@ -4,6 +4,7 @@
 * [一、Android基础](document/chapter1.md)
   * [1.1、测试工具](document/chapter1/testtool.md)
   * [1.2、性能优化](document/chapter1/optimization.md)
+  * [1.3、内存泄露](document/chapter1/memoryleak.md)
 * [二、Android组件和控件](document/chapter2.md)
   * [2.1、CoordinatorLayout](document/chapter2/coordinatorlayout.md)
 * [三、Android Material Designer](document/chapter3.md)

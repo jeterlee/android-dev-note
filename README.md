@@ -36,6 +36,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 - [一、Android基础](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1.md)
   - [1.1、测试工具](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/testtool.md)
   - [1.2、性能优化](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/optimization.md)
+  - [1.3、内存泄露](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/memoryleak.md)
 - [二、Android组件和控件](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2.md)
   - [2.1、CoordinatorLayout](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/coordinatorlayout.md)
 - [三、Android Material Designer](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter3.md)
