@@ -13,4 +13,5 @@
 ### 博客
 - [**技术胖博客**](http://jspang.com/)
 - [阳春面的博客](https://appkfz.com/android/)
+- [伯努力不努力](http://my.csdn.net/u012124438)
 
