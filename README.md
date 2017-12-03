@@ -30,7 +30,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ## 资料参考
 - 重点推荐：[**AndroidLibs**](https://github.com/XXApple/AndroidLibs)
-- Android学习路线图：[**2017Android学习路线图**](http://bbs.itheima.com/thread-338469-1-1.html)
+- Android学习路线图：[**2017Android学习路线图**](http://bbs.itheima.com/thread-338469-1-1.html)，Java学习路线图：[**2017Java学习路线图**](http://bbs.itheima.com/thread-338415-1-1.html)
 
 
 ## 目录结构（主要为资料链接和博客）
