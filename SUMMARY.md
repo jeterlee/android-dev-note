@@ -6,6 +6,7 @@
   * [1.2、性能优化](document/chapter1/optimization.md)
   * [1.3、内存泄露](document/chapter1/memoryleak.md)
   * [1.4、代码规范](document/chapter1/standard.md)
+  * [1.5、Handler机制](document/chapter1/handler.md)
 * [二、Android组件和控件](document/chapter2.md)
   * [2.1、CoordinatorLayout](document/chapter2/coordinatorlayout.md)
 * [三、Android Material Designer](document/chapter3.md)
