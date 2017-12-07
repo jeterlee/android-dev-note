@@ -42,6 +42,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
   - [2.1、CoordinatorLayout](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/coordinatorlayout.md)
 - [三、Android Material Designer](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter3.md)
 - [四、Android流行框架](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4.md)
+  - [4.1、Dagger2](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/dagger2.md)
 - [五、Android设计模式](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter5.md)
   - [5.1、MVP](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter5/mvp.md)
   - [5.2、MVVM](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter5/mvvm.md)
