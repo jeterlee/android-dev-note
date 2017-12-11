@@ -45,6 +45,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
   - [1.8、ttf字体库](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/ttf.md)
 - [二、Android组件和控件](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2.md)
   - [2.1、CoordinatorLayout](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/coordinatorlayout.md)
+  - [2.2、RecyclerView](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/recyclerview.md)
 - [三、Android Material Designer](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter3.md)
 - [四、Android流行框架](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4.md)
   - [4.1、Dagger2](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/dagger2.md)
