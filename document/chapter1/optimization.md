@@ -1,4 +1,5 @@
 ### 1.2、性能优化
+- [Android App优化之性能分析工具](http://www.jianshu.com/p/da2a4bfcba68)
 
 
 #### 1.2.1、Android性能优化系列
