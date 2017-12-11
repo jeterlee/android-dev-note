@@ -47,6 +47,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 - [四、Android流行框架](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4.md)
   - [4.1、Dagger2](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/dagger2.md)
   - [4.2、RxJava2](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/rxjava2.md)
+  - [4.3、Retrofit2](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/retrofit2.md)
 - [五、Android设计模式](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter5.md)
   - [5.1、MVP](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter5/mvp.md)
   - [5.2、MVVM](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter5/mvvm.md)
