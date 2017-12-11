@@ -12,6 +12,7 @@
   * [1.8、ttf字体库](document/chapter1/ttf.md)
 * [二、Android组件和控件](document/chapter2.md)
   * [2.1、CoordinatorLayout](document/chapter2/coordinatorlayout.md)
+  * [2.2、RecyclerView](document/chapter2/recyclerview.md)
 * [三、Android Material Designer](document/chapter3.md)
 * [四、Android流行框架](document/chapter4.md)
   * [4.1、Dagger2](document/chapter4/dagger2.md)
