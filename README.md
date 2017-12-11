@@ -42,6 +42,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
   - [1.5、Handler机制](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/handler.md)
   - [1.6、Annotation注解](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/annotation.md)
   - [1.7、反射机制](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/reflect.md)
+  - [1.8、ttf字体库](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/ttf.md)
 - [二、Android组件和控件](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2.md)
   - [2.1、CoordinatorLayout](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/coordinatorlayout.md)
 - [三、Android Material Designer](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter3.md)
