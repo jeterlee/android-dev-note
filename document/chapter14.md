@@ -14,6 +14,10 @@
 ### 博客
 - [**技术胖博客**](http://jspang.com/)
 - [**Hongyang**](http://blog.csdn.net/lmj623565791/)
+- [**Blankj**](https://blankj.com/)
+- [**我是一只香脆的大鸡排**](http://dajipai.cc/)
+- [**安卓开发**](http://jp1017.top/)
+- [**xiasuhuei321的小窝**](http://www.xiasuhuei321.com/)
 - [阳春面的博客](https://appkfz.com/android/)
 - [伯努力不努力](http://my.csdn.net/u012124438)
 
