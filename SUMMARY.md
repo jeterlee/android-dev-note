@@ -32,7 +32,7 @@
   * [10.1、Gradle与Groovy](document/chapter10/groovy.md)
 * [十一、Android进阶](document/chapter11.md)
   * [11.1、JNI](document/chapter11/jni.md)
-  * [11.2、HotFix热更新](document/chapter11/hotfix.md)
+  * [11.2、热修复](document/chapter11/hotfix.md)
 * [十二、Android开源库与开源协议](document/chapter12.md)
 * [十三、Android面试](document/chapter13.md)
 * [十四、优秀的论坛社区博客简书](document/chapter14.md)
