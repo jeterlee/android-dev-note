@@ -1,7 +1,7 @@
-### 4.2、RxJava2
+## 4.2、RxJava2
 
 
-#### 4.2.1、给初学者的RxJava2.0教程
+### 4.2.1、给初学者的RxJava2.0教程
 - [给初学者的RxJava2.0教程(一)](http://www.jianshu.com/p/464fa025229e)
 - [给初学者的RxJava2.0教程(二)](http://www.jianshu.com/p/8818b98c44e2)
 - [给初学者的RxJava2.0教程(三)](http://www.jianshu.com/p/128e662906af)
