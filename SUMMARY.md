@@ -35,6 +35,8 @@
   * [9.3、聚合数据](document/chapter9/juhe.md)
 * [十、AndroidStudio](document/chapter10.md)
   * [10.1、Gradle与Groovy](document/chapter10/groovy.md)
+  * [10.2、Intellij Idea快捷键](document/chapter10/shortcuts.md)
+  * [10.3、多渠道打包](document/chapter10/packchannel.md)
 * [十一、Android进阶](document/chapter11.md)
   * [11.1、JNI](document/chapter11/jni.md)
   * [11.2、热修复](document/chapter11/hotfix.md)

@@ -1,4 +1,5 @@
 ## 五、Android设计模式
+- [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](https://www.ctolib.com/topics-117156.html)
 
 
 ### 设计模式笔记

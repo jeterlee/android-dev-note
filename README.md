@@ -69,6 +69,8 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
   - [9.3、聚合数据](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter9/juhe.md)
 - [十、AndroidStudio](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10.md)
   - [10.1、Gradle与Groovy](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10/groovy.md)
+  - [10.2、Intellij Idea快捷键](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10/shortcuts.md)
+  - [10.3、多渠道打包](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10/packchannel.md)
 - [十一、Android进阶](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter11.md)
   - [11.1、JNI](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter11/jni.md)
   - [11.2、热修复](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter11/hotfix.md)
