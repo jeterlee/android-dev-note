@@ -37,6 +37,7 @@
   * [10.1、Gradle与Groovy](document/chapter10/groovy.md)
   * [10.2、Intellij Idea快捷键](document/chapter10/shortcuts.md)
   * [10.3、多渠道打包](document/chapter10/packchannel.md)
+  * [10.4、混淆配置](document/chapter10/proguard.md)
 * [十一、Android进阶](document/chapter11.md)
   * [11.1、JNI](document/chapter11/jni.md)
   * [11.2、热修复](document/chapter11/hotfix.md)

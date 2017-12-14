@@ -1,4 +1,5 @@
 ## 4.2、RxJava2
+- [RxJava 2.0 使用详解](http://blog.csdn.net/aiynmimi/article/details/53382567)
 
 
 ### 4.2.1、给初学者的RxJava2.0教程
