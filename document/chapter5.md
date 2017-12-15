@@ -1,4 +1,4 @@
-## 五、Android设计模式
+## 五、设计模式
 - [**设计模式**](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
 - [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](https://www.ctolib.com/topics-117156.html)
 
