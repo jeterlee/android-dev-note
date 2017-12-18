@@ -16,7 +16,7 @@
 [wire](https://github.com/square/wire)|Apache License 2.0|
 [okio](https://github.com/square/okio)|Apache License 2.0|
 [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)|Apache License 2.0|
-[ijkplayer](https://github.com/Bilibili/ijkplayer)|Apache License 2.0|
+[ijkplayer](https://github.com/Bilibili/ijkplayer)|LGPL v2.0|
 [dagger](https://github.com/google/dagger)|Apache License 2.0|
 [jackson-databind](https://github.com/FasterXML/jackson-databind)|Apache License 2.0|
 [jackson-core](https://github.com/FasterXML/jackson-core)|Apache License 2.0|
@@ -43,3 +43,25 @@
 
 
 ### 哔哩哔哩
+名称|许可证|备注
+:-:|:----:|:--:
+[ijkplayer](https://github.com/Bilibili/ijkplayer)|LGPL v2.0|
+[libyuv](https://github.com/Bilibili/libyuv)|BSD License v3.0|[https://code.google.com/p/libyuv](https://code.google.com/p/libyuv) ---     [https://github.com/Bilibili/libyuv（fork）](https://github.com/Bilibili/libyuv)
+[Apache Commons Collections](https://github.com/apache/commons-collections)|Apache License 2.0|
+[Apache Commons IO 2.2](https://github.com/apache/commons-io)|Apache License 2.0|
+[Apache Commons Lang 3.1](https://github.com/apache/commons-lang)|Apache License 2.0|
+[Citrus Project](http://citrus.bsdclub.org/)|BSD License v3.0/MIT license/(L)GPL|
+[烈焰弹幕使【Danmaku Flame Master】](https://github.com/Bilibili/DanmakuFlameMaster)|Apache License 2.0|
+[otto 1.3.6](https://github.com/square/otto)|Apache License 2.0|
+[Fresco 1.0](https://github.com/facebook/fresco)|BSD License v3.0|
+[Bolts-tasks 1.4.0](https://github.com/BoltsFramework/Bolts-Android)|BSD License v3.0|
+[Butter Knife 6.1.0](https://github.com/JakeWharton/butterknife)|Apache License 2.0|
+[PagerSlidingTabStrip 1.0+](https://github.com/astuetz/PagerSlidingTabStrip)|Apache License 2.0|[https://github.com/bbcallen/PagerSlidingTabStrip【my fork】](https://github.com/bbcallen/PagerSlidingTabStrip)
+[android-flowlayout 1.9](https://github.com/ApmeM/android-flowlayout)|Apache License 2.0|
+[Android View Animations 1.1.3](https://github.com/daimajia/AndroidViewAnimations)|MIT license|
+[fastjson 1.1.45.android](https://github.com/alibaba/fastjson)|Apache License 2.0|
+[zxing](https://github.com/zxing/zxing)|Apache License 2.0|
+[android-job 1.0.7](https://github.com/evernote/android-job)|Apache License 2.0|
+[retrofit 2.1.0](https://github.com/square/retrofit)|Apache License 2.0|
+[okhttp 3.5.0](https://github.com/square/okhttp)|Apache License 2.0|
+[okio 1.11.0](https://github.com/square/okio)|Apache License 2.0|
