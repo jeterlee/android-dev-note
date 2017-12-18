@@ -2,6 +2,9 @@
 
 
 ### 支付宝
+名称|许可证|备注
+:-:|:----:|:--:
+[FFmpeg](https://github.com/FFmpeg/FFmpeg)|GUN LGPL v2.1|
 
 
 
