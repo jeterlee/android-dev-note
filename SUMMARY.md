@@ -46,6 +46,7 @@
   * [11.1、JNI](document/chapter11/jni.md)
   * [11.2、热修复](document/chapter11/hotfix.md)
 * [十二、Android数据算法](document/chapter12.md)
+  * [12.1、贝塞尔曲线](document/chapter12/bezier.md)
 * [十三、Android面试](document/chapter13.md)
 * [十四、优秀的论坛社区博客简书](document/chapter14.md)
 * [十五、Android其他](document/chapter15.md)
