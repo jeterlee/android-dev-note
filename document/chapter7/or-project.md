@@ -151,27 +151,24 @@ Material Design
 支持切换长/短链接显示
 
 
-## [**24、awaker（）**]()
+## [**24、awaker（项目）**](https://github.com/ruzhan123/awaker)
 地理杂志阅读类Android App，项目采用 MVVM + RXJava2 + Retrofit + OKHttp + Material Design + AOP + Base + Glide +Realm构建
 
 
-## [****]()
+## [**25、FastDev4Android（开发框架，已停更）**](https://github.com/jiangqqlmj/FastDev4Android)
+本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等，后续会进行逐步添加 http://www.lcode.org/
 
 
+## [**26、XSnow（依赖库）**](https://github.com/xiaoyaoyou1212/XSnow)
+基于RxJava2+Retrofit2精心打造的Android基础框架，包含网络、上传、下载、缓存、事件总线、权限管理、数据库、图片加载、UI模块，基本都是项目中必用功能，每个模块充分解耦，可自由拓展。
 
 
-## [****]()
+## [**27、SimpleNews（项目，基本已停更）**](https://github.com/liuling07/SimpleNews)
+基于Material Design和MVP的新闻客户端
 
 
-
-
-## [****]()
-
-
-## [****]()
-
-
-## [****]()
+## [**28、LCRapidDevelop（开发框架，基本已停更）**](https://github.com/80945540/LCRapidDevelop)
+android快速开发框架--快速实现 异常奔溃统一管理 页面 加载中 加载失败 无数据等状态以及下拉刷新和自动加载
 
 
 
