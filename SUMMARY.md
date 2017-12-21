@@ -10,6 +10,7 @@
   * [1.6、Annotation注解](document/chapter1/annotation.md)
   * [1.7、反射机制](document/chapter1/reflect.md)
   * [1.8、ttf字体库](document/chapter1/ttf.md)
+  * [1.9、标签详解](document/chapter1/tag.md)
 * [二、Android组件和控件](document/chapter2.md)
   * [2.1、CoordinatorLayout](document/chapter2/coordinatorlayout.md)
   * [2.2、RecyclerView](document/chapter2/recyclerview.md)
