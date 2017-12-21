@@ -2,6 +2,9 @@
 - [Android开源项目第三篇——优秀项目篇](http://www.trinea.cn/android/android-open-source-projects-excellent-project/)
 
 
+### [最火的开源项目（可选择Trending）](https://github.com/trending/java)
+
+
 ### 优秀的开源项目（推荐学习）
 
 ### [**1、MVPArms（框架）**](https://github.com/JessYanCoding/MVPArms)
@@ -173,4 +176,16 @@ android快速开发框架--快速实现 异常奔溃统一管理 页面 加载�
 
 ## [**29、Douyu（下架）**](#)
 不知道为什么，项目已经不存在。
+
+
+## [**30、Bailan（项目）**](https://github.com/duboAndroid/Bailan)
+百篮应用市场，Retorfit2+Rxjava2+Mvp+Dagger2架构开发多层封装，高度解耦
+
+
+## [**31、diycode（项目）**](https://github.com/GcsSloop/diycode)
+Diycode 社区客户端，可以更方便的在手机上查看社区信息。应用采用了数据多级缓存，并且实现了离线浏览(访问过一次的页面会被缓存下来，没有网络也可查看)，相比于网页版，在一定程度上可以减少在手机上访问的流量消耗。由于目前功能尚未完善，还存在一些已知或未知的bug，所以当前版本仅为 beta 测试版。
+
+
+## [**32、android-app（项目+有公开的视频教程）**](https://gitee.com/oschina/android-app)
+开源中国官方App客户端开源代码。
 
