@@ -42,6 +42,7 @@
     * [9.1.2、X5Webview](document/chapter9/tencent/x5webview.md)
   * [9.2、极光服务](document/chapter9/jiguang.md)
   * [9.3、聚合数据](document/chapter9/juhe.md)
+  * [9.4、支付服务](document/chapter9/pay.md)
 * [十、AndroidStudio](document/chapter10.md)
   * [10.1、Gradle与Groovy](document/chapter10/groovy.md)
   * [10.2、Intellij Idea快捷键](document/chapter10/shortcuts.md)

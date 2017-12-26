@@ -77,6 +77,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
     - [9.1.2、X5Webview](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter9/tencent/x5webview.md)
   - [9.2、极光服务](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter9/jiguang.md)
   - [9.3、聚合数据](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter9/juhe.md)
+  - [9.4、支付服务](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter9/pay.md)
 - [十、AndroidStudio](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10.md)
   - [10.1、Gradle与Groovy](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10/groovy.md)
   - [10.2、Intellij Idea快捷键](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter10/shortcuts.md)
