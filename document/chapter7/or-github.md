@@ -2,7 +2,7 @@
 
 
 ### 7.2.1、开源Github（个人）
-
+- [**Jake Wharton**](https://github.com/JakeWharton)
 
 
 ### 7.2.1、开源Github（组织）
