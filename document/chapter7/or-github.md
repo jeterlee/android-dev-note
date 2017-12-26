@@ -15,6 +15,7 @@
 * [Google](https://github.com/google)
 * [极光开发者](https://github.com/jpush)
 * [Qihoo 360](https://github.com/Qihoo360)
+* [MobDevGroup](https://github.com/MobDevGroup/)
 
 
 

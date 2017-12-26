@@ -30,7 +30,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 
 ## 资料参考
-- 重点推荐：[**AndroidLibs**](https://github.com/XXApple/AndroidLibs)
+- 重点推荐：[**AndroidLibs**](https://github.com/XXApple/AndroidLibs)，[Google官方Android教程](http://hukai.me/android-training-course-in-chinese/index.html)
 - Android学习路线图：[**2017Android学习路线图**](http://bbs.itheima.com/thread-338469-1-1.html)，Java学习路线图：[**2017Java学习路线图**](http://bbs.itheima.com/thread-338415-1-1.html)，Java学习教程：[**How2J的Java教程**](http://how2j.cn/)
 - 编辑器工具：[**IntelliJ编辑器工具教程**](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 
@@ -48,13 +48,15 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
   - [1.9、资源和标签详解](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/res.md)
   - [1.10、动画详解](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/animation.md)
   - [1.11、各版本新特性](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter1/version.md)
-- [二、Android组件和控件](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2.md)
-  - [2.1、CoordinatorLayout](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/coordinatorlayout.md)
-  - [2.2、ConstraintLayout](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/constraintlayout.md)
-  - [2.3、RecyclerView](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/recyclerview.md)
-  - [2.4、Webview](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/webview.md)
+- [二、Android控件](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2.md)
+  - [2.1、系统控件](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/system_control.md)
+    - [2.1.1、CoordinatorLayout](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/system_control/coordinatorlayout.md)
+    - [2.1.2、ConstraintLayout](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/system_control/constraintlayout.md)
+    - [2.1.3、RecyclerView](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/system_control/recyclerview.md)
+    - [2.1.4、Webview](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/system_control/webview.md)
+  - [2.2、自定义控件](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter2/custom_control.md)
 - [三、Material Designer](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter3.md)
-- [四、Android流行框架](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4.md)
+- [四、Android流行技术框架](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4.md)
   - [4.1、Dagger2](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/dagger2.md)
   - [4.2、RxJava2](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/rxjava2.md)
   - [4.3、Retrofit2](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/retrofit2.md)
