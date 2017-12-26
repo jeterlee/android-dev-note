@@ -1,4 +1,4 @@
-## 2.2、RecyclerView
+## 2.3、RecyclerView
 
 ### 强力推荐的库：[**BRVAH官方使用指南（持续更新）**](http://www.jianshu.com/p/b343fcff51b0)
 

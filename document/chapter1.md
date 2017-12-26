@@ -1,4 +1,22 @@
 ## 一、Android基础
-- [ Android 探究 LayoutInflater setFactory](http://blog.csdn.net/lmj623565791/article/details/51503977)
+
+
+### 开发工具
 - [30款android开发高效必备工具（附下载地址）](http://www.cniao5.com/forum/thread/1744a590cb5f11e7b6be00163e0230fa)
-- [JAVA多线程实现和应用总结](http://www.cnblogs.com/yezhenhan/archive/2010/01/09/2317636.html)
+
+
+### 转换
+- [Android中 Bitmap和Drawable相互转换的方法](http://blog.csdn.net/hezhipin610039/article/details/7899248/)
+
+
+### 字符串
+- [JAVA字符串格式化-String.format()的使用](http://www.cnblogs.com/happyday56/p/3996498.html)
+
+
+### 正则表达式
+- [聊一聊正则表达式，最全最常用总结](https://www.jianshu.com/p/4513caf3eb7a)
+
+
+## 其他
+- [ Android 探究 LayoutInflater setFactory](http://blog.csdn.net/lmj623565791/article/details/51503977)
+

@@ -29,6 +29,7 @@
 ### 简书
 - [Season_zlc](http://www.jianshu.com/u/c50b715ccaeb)
 - [Blankj](http://www.jianshu.com/u/46702d5c6978)
+- [**goodgleCoder**](https://www.jianshu.com/u/5c22c52a7277)
 - [**JessYan**](http://www.jianshu.com/u/1d0c0bc634db)
 - [Ruheng](http://www.jianshu.com/u/0fa6f5d09040)
 - [CSDN_LQR](http://www.jianshu.com/u/f9de259236a3)
