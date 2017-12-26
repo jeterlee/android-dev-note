@@ -1,5 +1,6 @@
 ## 7.1、开源项目
 - [Android开源项目第三篇——优秀项目篇](http://www.trinea.cn/android/android-open-source-projects-excellent-project/)
+- [**15个优秀的开源项目，让你轻松应对Android开发**](https://www.jianshu.com/p/ae5b4ba58902)
 
 
 ### [最火的开源项目（可选择Trending）](https://github.com/trending/java)
