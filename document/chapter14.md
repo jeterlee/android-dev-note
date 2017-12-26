@@ -24,6 +24,7 @@
 - [伯努力不努力](http://my.csdn.net/u012124438)
 - [Corn](http://www.cnblogs.com/lwbqqyumidi/)
 - [Carson_Ho的博客](http://blog.csdn.net/carson_ho)
+- [**_刘某人程序员_**](http://my.csdn.net/qq_26787115)
 
 
 ### 简书
