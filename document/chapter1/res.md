@@ -1,9 +1,10 @@
-## 1.9、资源和标签详解
+## 1.9、资源、样式和标签详解
 
 
 ### 1.9.1、标题样式
 - [自定义ActionBar标题与菜单中的文字样式](https://www.cnblogs.com/angeldevil/p/3836214.html)
 - [ToolBar修改menu item的字体颜色](http://blog.csdn.net/u013971754/article/details/47320097)
+- [玩转Android状态栏](http://www.apkbus.com/blog-866962-76751.html)
 
 
 ### 1.9.2、主题样式
