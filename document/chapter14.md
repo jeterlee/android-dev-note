@@ -2,7 +2,7 @@
 
 
 ### 论坛
-- [**极客学院**](http://www.jikexueyuan.com/)
+- [**极客学院Wiki**](http://wiki.jikexueyuan.com/)
 
 
 ### 社区
