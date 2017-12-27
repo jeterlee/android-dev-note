@@ -6,3 +6,7 @@
 ### 1.8.1、WebP
 - [WebP 相对于 PNG、JPG 有什么优势？](https://www.zhihu.com/question/27201061)
 - [又拍云](https://www.upyun.com/webp)
+
+
+### 1.8.2、Svg
+- [Android VectorDrawable与SVG](http://blog.csdn.net/xu_fu/article/details/44004841)
