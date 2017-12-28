@@ -33,6 +33,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 - 重点推荐：[**AndroidLibs**](https://github.com/XXApple/AndroidLibs)，[Google官方Android教程](http://hukai.me/android-training-course-in-chinese/index.html)
 - Android学习路线图：[**2017Android学习路线图**](http://bbs.itheima.com/thread-338469-1-1.html)，Java学习路线图：[**2017Java学习路线图**](http://bbs.itheima.com/thread-338415-1-1.html)，Java学习教程：[**How2J的Java教程**](http://how2j.cn/)
 - 编辑器工具：[**IntelliJ编辑器工具教程**](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
+- [2017上半年技术文章集合—184篇文章分类汇总](http://blog.csdn.net/androidstarjack/article/details/77923753)
 
 
 ## 目录结构（主要为资料链接和博客）
