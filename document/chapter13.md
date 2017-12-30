@@ -5,6 +5,7 @@
 - [DeerResume：在线MarkDown简历工具](http://get.ftqq.com/745.get)
 - [DeerResume](https://github.com/geekcompany/DeerResume)
 - [ResumeSample](https://github.com/geekcompany/ResumeSample)
+- [**Android年薪30万面试宝典-不定期更新**](https://www.jianshu.com/p/4bcd4c50fd6b)
 
 
 ### Android面试题
