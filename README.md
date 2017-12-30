@@ -1,5 +1,5 @@
 # AndroidDevNote
-**项目说明：Android开发笔记，常用框架，问题收集，优秀的文章分享。**
+**项目说明：Android开发笔记，常用框架，问题收集，优秀的文章分享。（主要针对原生代码开发，Web移动端开发移步：[web-dev-note](https://github.com/jeterlee/web-dev-note)）**
 
 ## 持续更新中...
 
@@ -107,7 +107,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 # License
 
 ```
- Copyright (c) 2017, The Jeterlee authors 
+ Copyright (c) 2017-2018, The Jeterlee authors 
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
