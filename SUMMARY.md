@@ -4,8 +4,9 @@
 
 * [前言介绍](README.md)
 
-## [Android基礎](document/chapter1.md)
+## Android基礎
 
+* [第一章](document/chapter1.md)
 * [测试工具](document/chapter1/testtool.md)
 * [性能优化](document/chapter1/optimization.md)
 * [内存泄露](document/chapter1/memoryleak.md)
