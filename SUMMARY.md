@@ -18,18 +18,18 @@
 * [动画详解](document/chapter1/animation.md)
 * [生命周期](document/chapter1/lifecycle.md)
 * [各版本新特性](document/chapter1/version.md)
-* [其他](document/chapter1.md)
+* [其他](document/chapter1/others.md)
 
 ## Android控件   
 
-* [二、Android控件](document/chapter2.md)
-  * [2.1、系统控件](document/chapter2/system_control.md)
-    * [2.1.1、CoordinatorLayout](document/chapter2/system_control/coordinatorlayout.md)
-    * [2.1.2、ConstraintLayout](document/chapter2/system_control/constraintlayout.md)
-    * [2.1.3、RecyclerView](document/chapter2/system_control/recyclerview.md)
-    * [2.1.4、ImageView](document/chapter2/system_control/imageview.md)
-    * [2.1.5、Webview](document/chapter2/system_control/webview.md)
-  * [2.2、自定义控件](document/chapter2/custom_control.md)
+* [系统控件](document/chapter2/system_control.md)
+  * [CoordinatorLayout](document/chapter2/system_control/coordinatorlayout.md)
+  * [ConstraintLayout](document/chapter2/system_control/constraintlayout.md)
+  * [RecyclerView](document/chapter2/system_control/recyclerview.md)
+  * [ImageView](document/chapter2/system_control/imageview.md)
+  * [Webview](document/chapter2/system_control/webview.md)
+* [自定义控件](document/chapter2/custom_control.md)
+* [其他](document/chapter2.md)
   
 ## Material Designer
 
