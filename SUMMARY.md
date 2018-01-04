@@ -55,68 +55,69 @@
   
 ## Android项目
 
-* [六、Android项目](document/chapter6.md)
+* [第六章](document/chapter6.md)
 
 ## Android开源
 
-* [七、Android开源](document/chapter7.md)
-  * [7.1、开源项目](document/chapter7/or-project.md)
-  * [7.2、开源Github](document/chapter7/or-github.md)
-  * [7.3、知名应用开源库使用](document/chapter7/or-app.md)
-  * [7.4、开源库的发布](document/chapter7/or-project-publish.md)
-  * [7.5、开源协议](document/chapter7/or-protocol.md)
+* [第七章](document/chapter7.md)
+* [开源项目](document/chapter7/or-project.md)
+* [开源Github](document/chapter7/or-github.md)
+* [知名应用开源库使用](document/chapter7/or-app.md)
+* [开源库的发布](document/chapter7/or-project-publish.md)
+* [开源协议](document/chapter7/or-protocol.md)
+* [其他](document/chapter7/others.md)
   
 ## Android智能家具
 
-* [八、Android智能家具](document/chapter8.md)
+* [第八章](document/chapter8.md)
 
 ## Android第三方服务
 
-* [九、Android第三方服务](document/chapter9.md)
-  * [9.1、Tencent](document/chapter9/tencent.md)
-    * [9.1.1、Bugly](document/chapter9/tencent/bugly.md)
-    * [9.1.2、X5Webview](document/chapter9/tencent/x5webview.md)
-  * [9.2、极光服务](document/chapter9/jiguang.md)
-  * [9.3、聚合数据](document/chapter9/juhe.md)
-  * [9.4、支付服务](document/chapter9/pay.md)
+* [第九章](document/chapter9.md)
+* [Tencent](document/chapter9/tencent.md)
+  * [Bugly](document/chapter9/tencent/bugly.md)
+  * [X5Webview](document/chapter9/tencent/x5webview.md)
+* [极光服务](document/chapter9/jiguang.md)
+* [聚合数据](document/chapter9/juhe.md)
+* [支付服务](document/chapter9/pay.md)
   
 ## AndroidStudio
 
-* [十、AndroidStudio](document/chapter10.md)
-  * [10.1、Gradle与Groovy](document/chapter10/groovy.md)
-  * [10.2、Intellij Idea快捷键](document/chapter10/shortcuts.md)
-  * [10.3、多渠道打包](document/chapter10/packchannel.md)
-  * [10.4、混淆配置](document/chapter10/proguard.md)
+* [第十章](document/chapter10.md)
+* [Gradle与Groovy](document/chapter10/groovy.md)
+* [Intellij Idea快捷键](document/chapter10/shortcuts.md)
+* [多渠道打包](document/chapter10/packchannel.md)
+* [混淆配置](document/chapter10/proguard.md)
   
 ## Android进阶
 
-* [十一、Android进阶](document/chapter11.md)
-  * [11.1、图片处理](document/chapter11/picture.md)
-  * [11.2、图表应用](document/chapter11/chat.md)
-  * [11.3、分享实现](document/chapter11/share.md)
-  * [11.4、JNI与NDK](document/chapter11/jni.md)
-  * [11.5、热修复、热更新](document/chapter11/hotfix.md)
+* [第十一章](document/chapter11.md)
+* [图片处理](document/chapter11/picture.md)
+* [图表应用](document/chapter11/chat.md)
+* [分享实现](document/chapter11/share.md)
+* [JNI与NDK](document/chapter11/jni.md)
+* [热修复、热更新](document/chapter11/hotfix.md)
   
 ## Android数据算法
 
-* [十二、Android数据算法](document/chapter12.md)
-  * [12.1、贝塞尔曲线](document/chapter12/bezier.md)
+* [第十二章](document/chapter12.md)
+* [贝塞尔曲线](document/chapter12/bezier.md)
   
 ## Android总结与面试
 
-* [十三、Android总结与面试](document/chapter13.md)
-  * [13.1、Android总结](document/chapter13/summary.md)
-  * [13.2、Android面试](document/chapter13/interview.md)
-  * [13.3、Android简历](document/chapter13/resume.md)
+* [第十三章](document/chapter13.md)
+* [Android总结](document/chapter13/summary.md)
+* [Android面试](document/chapter13/interview.md)
+* [Android简历](document/chapter13/resume.md)
   
 ## 优秀的论坛社区博客简书
 
-* [十四、优秀的论坛社区博客简书](document/chapter14.md)
+* [第十四章](document/chapter14.md)
 
 ## Android其他
 
-* [十五、Android其他](document/chapter15.md)
-  * [15.1、GitHub](document/chapter15/github.md)
-  * [15.2、GitBook](document/chapter15/gitbook.md)
-  * [15.3、Markdown](document/chapter15/markdown.md)
+* [第十五章](document/chapter15.md)
+* [GitHub](document/chapter15/github.md)
+* [GitBook](document/chapter15/gitbook.md)
+* [Markdown](document/chapter15/markdown.md)
 
