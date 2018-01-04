@@ -6,7 +6,6 @@
 
 ## Android基礎
 
-* [Android基础](document/chapter1.md)
 * [测试工具](document/chapter1/testtool.md)
 * [性能优化](document/chapter1/optimization.md)
 * [内存泄露](document/chapter1/memoryleak.md)
@@ -19,6 +18,7 @@
 * [动画详解](document/chapter1/animation.md)
 * [生命周期](document/chapter1/lifecycle.md)
 * [各版本新特性](document/chapter1/version.md)
+* [其他](document/chapter1.md)
 
 ## Android控件   
 
