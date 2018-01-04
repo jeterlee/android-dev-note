@@ -4,7 +4,7 @@
 
 * [前言介绍](README.md)
 
-## Android基礎
+## [Android基礎](document/chapter1.md)
 
 * [测试工具](document/chapter1/testtool.md)
 * [性能优化](document/chapter1/optimization.md)
@@ -22,7 +22,6 @@
 
 ## Android控件   
 
-  ### 系统控件
 * [系统控件](document/chapter2/system_control.md)
   * [CoordinatorLayout](document/chapter2/system_control/coordinatorlayout.md)
   * [ConstraintLayout](document/chapter2/system_control/constraintlayout.md)
