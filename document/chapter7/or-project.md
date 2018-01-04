@@ -190,3 +190,6 @@ Diycode 社区客户端，可以更方便的在手机上查看社区信息。应
 ## [**32、android-app（项目+有公开的视频教程）**](https://gitee.com/oschina/android-app)
 开源中国官方App客户端开源代码。
 
+
+## [**33、Eyepetizer-in-Kotlin（項目+kotlin学习）**](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
+Google在今年的IO大会上宣布，将Kotlin作为Android开发的一级语言。作为紧跟潮流的弄潮儿，对kotlin稍做了解后，发现其有优秀的特性，所以就开始了学习，而Eyepetizer-in-Kotlin便是对kotlin进行学习后的阶段性成果。
