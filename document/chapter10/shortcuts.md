@@ -1,4 +1,4 @@
-## 10.2、Intellij Idea快捷键
+## Intellij Idea快捷键
 ![Android Studio快捷键](https://raw.githubusercontent.com/jeterlee/android-dev-note/master/images/Android%20Studio%E5%BF%AB%E6%8D%B7%E9%94%AE.jpg)
 
 

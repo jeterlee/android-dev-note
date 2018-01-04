@@ -1,7 +1,7 @@
-## 7.3、知名应用开源库使用
+## 知名应用开源库使用
 
 
-### 支付宝
+### 1、支付宝
 名称|许可证|备注
 :-:|:----:|:--:
 [FFmpeg](https://github.com/FFmpeg/FFmpeg)|GUN LGPL v2.1|
@@ -42,7 +42,7 @@
 [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo)|BSD License v3.0|
 
 
-### 哔哩哔哩
+### 2、哔哩哔哩
 名称|许可证|备注
 :-:|:----:|:--:
 [ijkplayer](https://github.com/Bilibili/ijkplayer)|LGPL v2.0|

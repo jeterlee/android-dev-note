@@ -1,19 +1,19 @@
-## 十四、优秀的论坛社区博客
+## 第十四章
 
 
-### 论坛
+### 1、论坛
 - [**极客学院Wiki**](http://wiki.jikexueyuan.com/)
 - [**菜鸟教程**](http://www.runoob.com/)
 
 
-### 社区
+### 2、社区
 - [**CTOLib码库**](https://www.ctolib.com/android/)
 - [**菜鸟窝社区**](http://www.cniao5.com/forum/)
 - [**Mindorks Open Source**](https://mindorks.com/open-source-projects)
 - [Android开发者](http://geek.csdn.net/forum/65)
 
 
-### 博客
+### 3、博客
 - [**技术胖博客**](http://jspang.com/)
 - [**玩Android（Hongyang的博客）**](http://www.wanandroid.com/)
 - [**Hongyang**](http://blog.csdn.net/lmj623565791/)
@@ -28,7 +28,7 @@
 - [**_刘某人程序员_**](http://my.csdn.net/qq_26787115)
 
 
-### 简书
+### 4、简书
 - [Season_zlc](http://www.jianshu.com/u/c50b715ccaeb)
 - [Blankj](http://www.jianshu.com/u/46702d5c6978)
 - [**goodgleCoder**](https://www.jianshu.com/u/5c22c52a7277)

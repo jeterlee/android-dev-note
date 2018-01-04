@@ -1,4 +1,4 @@
-## 1.3、内存泄露
+## 内存泄露
 - **case1：单例造成的内存泄露**
 - **case2：InnerClass匿名内部类**
 - **case3：Activity，Context的不正确使用**

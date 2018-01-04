@@ -1,11 +1,11 @@
-## 7.2、开源Github
+## 开源Github
 
 
-### 7.2.1、开源Github（个人）
+### 1、开源Github（个人）
 - [**Jake Wharton**](https://github.com/JakeWharton)
 
 
-### 7.2.1、开源Github（组织）
+### 2、开源Github（组织）
 * [**Tencent**](https://github.com/Tencent)
 * [**Alibaba**](https://github.com/alibaba)
 * [**Facebook**](https://github.com/facebook)
@@ -18,5 +18,5 @@
 * [MobDevGroup](https://github.com/MobDevGroup/)
 
 
-### 7.2.3、开源Github博客
+### 3、开源Github博客
 * [HuYounger's Note](http://rkhcy.github.io/)

@@ -1,9 +1,9 @@
-## 4.1、RxJava2、RxAndroid
+## RxJava2、RxAndroid
 - [RxJava 2.0 使用详解](http://blog.csdn.net/aiynmimi/article/details/53382567)
 - [详细解析RxAndroid的使用方式](https://www.jianshu.com/p/6d1ef9f43cdc)
 
 
-### 4.1.1、给初学者的RxJava2.0教程
+### 1、给初学者的RxJava2.0教程
 - [给初学者的RxJava2.0教程(一)](http://www.jianshu.com/p/464fa025229e)
 - [给初学者的RxJava2.0教程(二)](http://www.jianshu.com/p/8818b98c44e2)
 - [给初学者的RxJava2.0教程(三)](http://www.jianshu.com/p/128e662906af)
@@ -15,7 +15,7 @@
 - [给初学者的RxJava2.0教程(九)](http://www.jianshu.com/p/36e0f7f43a51)
 
 
-### 4.1.2、Android RxJava实战教程
+### 2、Android RxJava实战教程
 - [Android：手把手带你入门神秘的 Rxjava](http://blog.csdn.net/carson_ho/article/details/78179340)
 - [Android RxJava操作符详解系列： 创建操作符](http://blog.csdn.net/carson_ho/article/details/78246732)
 - [Android RxJava 实战讲解：优雅实现 网络请求轮询](http://blog.csdn.net/carson_ho/article/details/78256466)
