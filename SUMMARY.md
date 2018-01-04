@@ -23,6 +23,7 @@
 
 ## Android控件   
 
+* [第二章](document/chapter2.md)
 * [系统控件](document/chapter2/system_control.md)
   * [CoordinatorLayout](document/chapter2/system_control/coordinatorlayout.md)
   * [ConstraintLayout](document/chapter2/system_control/constraintlayout.md)
@@ -30,26 +31,27 @@
   * [ImageView](document/chapter2/system_control/imageview.md)
   * [Webview](document/chapter2/system_control/webview.md)
 * [自定义控件](document/chapter2/custom_control.md)
-* [其他](document/chapter2.md)
+* [其他](document/chapter2/others.md)
   
 ## Material Designer
 
-* [三、Material Designer](document/chapter3.md)
+* [第三章](document/chapter3.md)
 
 ## Android流行技术框架
 
-* [四、Android流行技术框架](document/chapter4.md)
-  * [4.1、RxJava2、RxAndroid](document/chapter4/rxjava2.md)
-  * [4.2、Dagger2](document/chapter4/dagger2.md)
-  * [4.3、Retrofit2](document/chapter4/retrofit2.md)
-  * [4.4、GreenDao3](document/chapter4/greendao3.md)
+* [第四章](document/chapter4.md)
+* [RxJava2、RxAndroid](document/chapter4/rxjava2.md)
+* [Dagger2](document/chapter4/dagger2.md)
+* [Retrofit2](document/chapter4/retrofit2.md)
+* [GreenDao3](document/chapter4/greendao3.md)
+* [其他](document/chapter4/others.md)
   
 ## Android设计模式
 
-* [五、Android设计模式](document/chapter5.md)
-  * [5.1、MVP](document/chapter5/mvp.md)
-  * [5.2、MVVM](document/chapter5/mvvm.md)
-  * [5.3、AAC](document/chapter5/aac.md)
+* [第五章](document/chapter5.md)
+* [MVP](document/chapter5/mvp.md)
+* [MVVM](document/chapter5/mvvm.md)
+* [AAC](document/chapter5/aac.md)
   
 ## Android项目
 
