@@ -97,6 +97,7 @@
 * [分享实现](document/chapter11/share.md)
 * [JNI与NDK](document/chapter11/jni.md)
 * [热修复、热更新](document/chapter11/hotfix.md)
+* [插件化](document/chapter11/pluggable.md)
   
 ## Android数据算法
 

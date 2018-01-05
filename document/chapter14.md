@@ -24,6 +24,7 @@
 - [阳春面的博客](https://appkfz.com/android/)
 - [伯努力不努力](http://my.csdn.net/u012124438)
 - [Corn](http://www.cnblogs.com/lwbqqyumidi/)
+- [code_xzh](http://blog.csdn.net/xiangzhihong8)
 - [Carson_Ho的博客](http://blog.csdn.net/carson_ho)
 - [**_刘某人程序员_**](http://my.csdn.net/qq_26787115)
 
