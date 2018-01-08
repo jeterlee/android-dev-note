@@ -193,3 +193,15 @@ Diycode 社区客户端，可以更方便的在手机上查看社区信息。应
 
 ## [**33、Eyepetizer-in-Kotlin（項目+kotlin学习）**](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
 Google在今年的IO大会上宣布，将Kotlin作为Android开发的一级语言。作为紧跟潮流的弄潮儿，对kotlin稍做了解后，发现其有优秀的特性，所以就开始了学习，而Eyepetizer-in-Kotlin便是对kotlin进行学习后的阶段性成果。
+
+
+## [**34、NewFastFrame（组件化）**](https://github.com/HelloChenJinJun/NewFastFrame)
+该项目目前集成现在主流的开发框架和技术，包括okhttp3、rxjava2、retrofit2、glide、greendao3.0、dagger2、mvp、md风格、热修复tinker,bugly和组件化等。
+
+采用组件化开发框架，可以使模块单独编译调试，可以有效地减少编译的时间，更好地进行并发开发，从而极大的提高了并行开发效率。
+
+
+## [**35、TestChat（社交）**]()
+该款APP是一个后台基于bmob后端云的校园社交APP，后台采用bmob云存储技术。界面采用了谷歌的matrial design设计，框架基于MD+Rxjava+retrofit+MVP架构。 到目前为止，已经完成的功能模块有单聊，群聊，附近人搜索，开心时刻，天气预报，朋友圈发表和个人信息编辑展示等7大功能模块。
+
+首先郑重声明下，该聊天功能的实现并不是调用官方的即时通讯API，而是本人自己结合官方提供的推送功能和实时同步的功能，按照自己的逻辑来实现的，所以内部聊天信息的逻辑处理过程源码是开放的，希望对想学习Android聊天框架的同学有所帮助。  
