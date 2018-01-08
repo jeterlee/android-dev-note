@@ -5,6 +5,7 @@
 
 ### 1、Android面试指南
 - [最全面的高质量 Android 面试指南](https://github.com/stormzhang/android-interview-questions-cn)
+- [《Android 开发工程师面试指南》](https://juejin.im/entry/579052d1128fe100568f2515)
 
 
 ### 2、Android面试题

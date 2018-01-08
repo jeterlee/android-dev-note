@@ -102,6 +102,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 * [第七章](document/chapter7.md)
 * [开源项目](document/chapter7/or-project.md)
+* [开源库](document/chapter7/or-lib.md)
 * [开源Github](document/chapter7/or-github.md)
 * [知名应用开源库使用](document/chapter7/or-app.md)
 * [开源库的发布](document/chapter7/or-project-publish.md)
