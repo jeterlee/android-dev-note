@@ -84,6 +84,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 * [Dagger2](document/chapter4/dagger2.md)
 * [Retrofit2](document/chapter4/retrofit2.md)
 * [GreenDao3、Realm](document/chapter4/greendao3.md)
+* [组件化](document/chapter4/component.md)
 * [其他](document/chapter4/others.md)
   
 ## Android设计模式
