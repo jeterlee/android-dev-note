@@ -141,6 +141,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 * [JNI与NDK](document/chapter11/jni.md)
 * [热修复、热更新](document/chapter11/hotfix.md)
 * [插件化](document/chapter11/pluggable.md)
+* [源码分析](document/chapter11/source-code.md)
   
 ## Android数据算法
 
