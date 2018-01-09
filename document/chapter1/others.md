@@ -12,6 +12,13 @@
 - [Android中Bundle和Intent的区别](https://www.cnblogs.com/jeffen/p/6835622.html)
 - [Android细节问题 —— 有了Intent，为什么还要有Bundle？](https://www.jianshu.com/p/e9db0797293b)
 
+---
+
+```
+Intent内部还是用bundle来实现数据传递的，只是在外面封装了一层。
+```
+
+
 ### 开发工具
 - [30款android开发高效必备工具（附下载地址）](http://www.cniao5.com/forum/thread/1744a590cb5f11e7b6be00163e0230fa)
 
