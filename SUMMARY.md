@@ -17,7 +17,7 @@
 * [TTF字体库与图标](document/chapter1/ttf.md)
 * [资源、样式和标签详解](document/chapter1/res.md)
 * [动画详解](document/chapter1/animation.md)
-* [生命周期](document/chapter1/lifecycle.md)
+* [四大组件](document/chapter1/components.md)
 * [各版本新特性](document/chapter1/version.md)
 * [Java知识](document/chapter1/java.md)
 * [其他](document/chapter1/others.md)
