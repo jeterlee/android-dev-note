@@ -1,12 +1,16 @@
 ## 其他
 
 
-### 1、启动模式
+### 启动模式
 - [Activity的四种启动模式-图文并茂eclipse设置详解](http://blog.csdn.net/guofengpu/article/details/52058454)
 - [**Activity的四种启动模式-图文并茂【Android】**](http://blog.csdn.net/qq_31753145/article/details/50833754)
 - [activity的四种启动模式区别_launchmode图文详解](http://blog.csdn.net/androidstar_cn/article/details/52730476)
 - [Activity的四种启动模式和onNewIntent()](http://blog.csdn.net/linghu_java/article/details/17266603)
 
+### Android-Intent与Bundle
+- [**Android-Intent与Bundle在传值上的区别**](http://blog.csdn.net/u014657752/article/details/47301569)
+- [Android中Bundle和Intent的区别](https://www.cnblogs.com/jeffen/p/6835622.html)
+- [Android细节问题 —— 有了Intent，为什么还要有Bundle？](https://www.jianshu.com/p/e9db0797293b)
 
 ### 2、开发工具
 - [30款android开发高效必备工具（附下载地址）](http://www.cniao5.com/forum/thread/1744a590cb5f11e7b6be00163e0230fa)
