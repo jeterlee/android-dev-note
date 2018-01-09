@@ -1,7 +1,27 @@
 ## 其他
 
+### 1、四大组件
 
-### 启动模式
+#### 1.1、Application
+- [ContextWrapper中attachBaseContext()方法使用技巧](https://www.2cto.com/kf/201709/686874.html)
+- [ Android之Content和activity、service、Application关系和attachBaseContext函数调用的时候](http://blog.csdn.net/u011068702/article/details/70768653)
+
+```
+说明：
+
+ContextWrapper类的源码，ContextWrapper中有一个attachBaseContext()方法，这个方法会将传入的一个
+Context参数赋值给mBase对象，之后mBase对象就有值了。
+Application中在onCreate()方法里去初始化各种全局的变量数据是一种比较推荐的做法，但是如果你想把初始
+化的时间点提前到极致，也可以去重写attachBaseContext()方法
+
+执行顺序：构造方法 -> attachBaseContext() -> onCreate()
+```
+
+---
+
+#### 1.2、Activity
+
+###### 1.2.1、启动模式
 - [Activity的四种启动模式-图文并茂eclipse设置详解](http://blog.csdn.net/guofengpu/article/details/52058454)
 - [**Activity的四种启动模式-图文并茂【Android】**](http://blog.csdn.net/qq_31753145/article/details/50833754)
 - [activity的四种启动模式区别_launchmode图文详解](http://blog.csdn.net/androidstar_cn/article/details/52730476)
@@ -26,7 +46,7 @@ Activity的Intent.否则，后续的getIntent()都是得到老的Intent。
 
 ---
 
-### Android-Intent与Bundle
+###### 1.2.2、Android-Intent与Bundle
 - [**Android-Intent与Bundle在传值上的区别**](http://blog.csdn.net/u014657752/article/details/47301569)
 - [Android中Bundle和Intent的区别](https://www.cnblogs.com/jeffen/p/6835622.html)
 - [Android细节问题 —— 有了Intent，为什么还要有Bundle？](https://www.jianshu.com/p/e9db0797293b)
@@ -49,20 +69,28 @@ Bundle是可以对对象进行操作的，而Intent不可以。Bundle相对于In
 
 ---
 
-### 开发工具
+#### 1.3、Service
+
+---
+
+#### 1.4、ContentProvider
+
+---
+
+### 2、开发工具
 - [30款android开发高效必备工具（附下载地址）](http://www.cniao5.com/forum/thread/1744a590cb5f11e7b6be00163e0230fa)
 
-### 转换
+### 3、转换
 - [Android中 Bitmap和Drawable相互转换的方法](http://blog.csdn.net/hezhipin610039/article/details/7899248/)
 
-### 字符串
+### 4、字符串
 - [JAVA字符串格式化-String.format()的使用](http://www.cnblogs.com/happyday56/p/3996498.html)
 
-### 正则表达式
+### 5、正则表达式
 - [聊一聊正则表达式，最全最常用总结](https://www.jianshu.com/p/4513caf3eb7a)
 
-### 混淆
+### 6、混淆
 
-## 其他
+## 7、其他
 - [ Android 探究 LayoutInflater setFactory](http://blog.csdn.net/lmj623565791/article/details/51503977)
 
