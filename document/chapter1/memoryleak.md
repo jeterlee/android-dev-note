@@ -1,7 +1,7 @@
 ## 内存泄露
 
 
-### <font color=#228B22>造成内存泄露的原因</font>
+### 造成内存泄露的原因
 > **case1：单例造成的内存泄露**  
 > **case2：InnerClass匿名内部类**  
 > **case3：Activity，Context的不正确使用**  
