@@ -2,7 +2,7 @@
 - [Android App优化之性能分析工具](http://www.jianshu.com/p/da2a4bfcba68)
 
 
-### 1、Android性能优化系列
+### Android性能优化系列
 - [Android性能优化（一）之启动加速35%](http://www.jianshu.com/p/f5514b1a826c)
 - [Android性能优化（二）之布局优化面面观](http://www.jianshu.com/p/4f44a178c547)
 - [Android性能优化（三）之内存管理](http://www.jianshu.com/p/c4b283848970)
