@@ -4,9 +4,16 @@
 
 * [前言介绍](README.md)
 
+## Java基础与进阶
+
+* [前言](document/chapter0.md)
+* [Java基础](document/chapter0/basis.md)
+* [Java进阶](document/chapter0/advance.md)
+* [其他](document/chapter0/others.md)
+
 ## Android基礎
 
-* [第一章](document/chapter1.md)
+* [前言](document/chapter1.md)
 * [测试工具](document/chapter1/testtool.md)
 * [性能优化](document/chapter1/optimization.md)
 * [内存泄露](document/chapter1/memoryleak.md)
@@ -24,7 +31,7 @@
 
 ## Android控件   
 
-* [第二章](document/chapter2.md)
+* [前言](document/chapter2.md)
 * [系统控件](document/chapter2/system_control.md)
   * [CoordinatorLayout](document/chapter2/system_control/coordinatorlayout.md)
   * [ConstraintLayout](document/chapter2/system_control/constraintlayout.md)
@@ -36,11 +43,12 @@
   
 ## Material Designer
 
-* [第三章](document/chapter3.md)
+* [前言](document/chapter3.md)
+* [其他](document/chapter3/others.md)
 
 ## Android流行技术框架
 
-* [第四章](document/chapter4.md)
+* [前言](document/chapter4.md)
 * [RxJava2、RxAndroid](document/chapter4/rxjava2.md)
 * [Dagger2](document/chapter4/dagger2.md)
 * [Retrofit2](document/chapter4/retrofit2.md)
@@ -50,18 +58,18 @@
   
 ## Android设计模式
 
-* [第五章](document/chapter5.md)
+* [前言](document/chapter5.md)
 * [MVP](document/chapter5/mvp.md)
 * [MVVM](document/chapter5/mvvm.md)
 * [AAC](document/chapter5/aac.md)
   
 ## Android项目
 
-* [第六章](document/chapter6.md)
+* [前言](document/chapter6.md)
 
 ## Android开源
 
-* [第七章](document/chapter7.md)
+* [前言](document/chapter7.md)
 * [开源项目](document/chapter7/or-project.md)
 * [开源库](document/chapter7/or-lib.md)
 * [开源Github](document/chapter7/or-github.md)
@@ -72,11 +80,11 @@
   
 ## Android智能家具
 
-* [第八章](document/chapter8.md)
+* [前言](document/chapter8.md)
 
 ## Android第三方服务
 
-* [第九章](document/chapter9.md)
+* [前言](document/chapter9.md)
 * [Tencent](document/chapter9/tencent.md)
   * [Bugly](document/chapter9/tencent/bugly.md)
   * [X5Webview](document/chapter9/tencent/x5webview.md)
@@ -86,7 +94,7 @@
   
 ## AndroidStudio
 
-* [第十章](document/chapter10.md)
+* [前言](document/chapter10.md)
 * [Gradle与Groovy](document/chapter10/groovy.md)
 * [Intellij Idea快捷键](document/chapter10/shortcuts.md)
 * [多渠道打包](document/chapter10/packchannel.md)
@@ -94,7 +102,7 @@
   
 ## Android进阶
 
-* [第十一章](document/chapter11.md)
+* [前言](document/chapter11.md)
 * [图片处理](document/chapter11/picture.md)
 * [图表应用](document/chapter11/chat.md)
 * [分享实现](document/chapter11/share.md)
@@ -105,23 +113,23 @@
   
 ## Android数据算法
 
-* [第十二章](document/chapter12.md)
+* [前言](document/chapter12.md)
 * [贝塞尔曲线](document/chapter12/bezier.md)
   
 ## Android总结与面试
 
-* [第十三章](document/chapter13.md)
+* [前言](document/chapter13.md)
 * [Android总结](document/chapter13/summary.md)
 * [Android面试](document/chapter13/interview.md)
 * [Android简历](document/chapter13/resume.md)
   
 ## 优秀的论坛社区博客简书
 
-* [第十四章](document/chapter14.md)
+* [前言](document/chapter14.md)
 
 ## Android其他
 
-* [第十五章](document/chapter15.md)
+* [前言](document/chapter15.md)
 * [GitHub](document/chapter15/github.md)
 * [GitBook](document/chapter15/gitbook.md)
 * [Markdown](document/chapter15/markdown.md)
