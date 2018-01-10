@@ -201,7 +201,21 @@ Google在今年的IO大会上宣布，将Kotlin作为Android开发的一级语�
 采用组件化开发框架，可以使模块单独编译调试，可以有效地减少编译的时间，更好地进行并发开发，从而极大的提高了并行开发效率。
 
 
-## [**35、TestChat（社交）**]()
+## [**35、TestChat（社交）**](https://github.com/HelloChenJinJun/TestChat)
 该款APP是一个后台基于bmob后端云的校园社交APP，后台采用bmob云存储技术。界面采用了谷歌的matrial design设计，框架基于MD+Rxjava+retrofit+MVP架构。 到目前为止，已经完成的功能模块有单聊，群聊，附近人搜索，开心时刻，天气预报，朋友圈发表和个人信息编辑展示等7大功能模块。
 
-首先郑重声明下，该聊天功能的实现并不是调用官方的即时通讯API，而是本人自己结合官方提供的推送功能和实时同步的功能，按照自己的逻辑来实现的，所以内部聊天信息的逻辑处理过程源码是开放的，希望对想学习Android聊天框架的同学有所帮助。  
+首先郑重声明下，该聊天功能的实现并不是调用官方的即时通讯API，而是本人自己结合官方提供的推送功能和实时同步的功能，按照自己的逻辑来实现的，所以内部聊天信息的逻辑处理过程源码是开放的，希望对想学习Android聊天框架的同学有所帮助。 
+
+ 
+## [**36、kotlin-life（kotlin）**](https://github.com/Cuieney/kotlin-life)
+App界的一股清流
+目前项目持续更新重构中(目前项目已经转型到kotlin了)
+
+Life is a Multimedia information app based on Material Design Kotlin + MVP + RxJava + Retrofit + Dagger2 + GreenDAO + Glide
+
+life 是一个多媒体信息app，基于Material Design Kotlin + MVP + RxJava + Retrofit + Dagger2 + GreenDAO + Glide
+
+做这款app主要是出于Android日常开发中或多或少的都会仿着ios的样式来写ui（可能设计师就做了一份ios交互设计，android只能跟着去写相同ui），完全舍弃了MD风格，第一出于学习目的做的，第二出于想写一个完全按照MD风格的App。 目前包括以下内容：
+
+
+ 
