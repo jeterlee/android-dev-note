@@ -9,5 +9,6 @@
 - [Markdown表格之合并单元格效果](http://blog.csdn.net/loongshawn/article/details/72829090?ref=myread)
 - [Markdown 快速生成表格](http://www.jianshu.com/p/abaff828100d)
 - [Gitbook/Markdown中插入复杂（合并单元格）的表格](http://blog.csdn.net/wiborgite/article/details/78044656)
+- [**开发工具总结（5）之Markdown语法图文全面详解**](https://www.jianshu.com/p/c0a2897ad4eb)
 
 
