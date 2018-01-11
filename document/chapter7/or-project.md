@@ -1,5 +1,6 @@
 ## 开源项目
 - [Android开源项目第三篇——优秀项目篇](http://www.trinea.cn/android/android-open-source-projects-excellent-project/)
+- [**完整开源项目**](http://www.wanandroid.com/article/list/0?cid=254)
 - [**15个优秀的开源项目，让你轻松应对Android开发**](https://www.jianshu.com/p/ae5b4ba58902)
 - [**10个优秀个android项目，精选|快速开发**](https://www.jianshu.com/p/123915ef3ab7)
 
@@ -176,7 +177,7 @@ Material Design
 android快速开发框架--快速实现 异常奔溃统一管理 页面 加载中 加载失败 无数据等状态以及下拉刷新和自动加载
 
 
-## [**29、Douyu（下架）**](#)
+## [**29、Douyu（高仿斗鱼 + 下架 + 源码 + 直播类学习）**](#)
 不知道为什么，项目已经不存在。
 
 
@@ -192,7 +193,7 @@ Diycode 社区客户端，可以更方便的在手机上查看社区信息。应
 开源中国官方App客户端开源代码。
 
 
-## [**33、Eyepetizer-in-Kotlin（項目+kotlin学习）**](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
+## [**33、Eyepetizer-in-Kotlin（开眼视频学习项目 + 項目 + kotlin学习）**](https://github.com/LRH1993/Eyepetizer-in-Kotlin)
 Google在今年的IO大会上宣布，将Kotlin作为Android开发的一级语言。作为紧跟潮流的弄潮儿，对kotlin稍做了解后，发现其有优秀的特性，所以就开始了学习，而Eyepetizer-in-Kotlin便是对kotlin进行学习后的阶段性成果。
 
 
@@ -255,3 +256,39 @@ Android百度地图实例详解之仿摩拜单车APP(包括附近车辆、规划
 详情可参考博客：[http://blog.csdn.net/gaolei1201/article/details/60876811](http://blog.csdn.net/gaolei1201/article/details/60876811)
 
 最近共享单车很火，动辄几亿美刀，屌丝的我只有羡慕的份。啥时候自己也能创一番事业呢？我眉头紧皱深深地思索着。自己以前没做过地图有关的项目，看到网上也没有完整有关地图的项目，就想起模仿一下摩拜单车app，我这个小项目包括附近车辆、规划路径、行驶距离、行驶轨迹记录、轨迹回放，导航等（也挺全的哈），其中的附近车辆用的是假数据，行驶轨迹记录都是保存在本地数据库；
+
+
+## [**42、toutiao（MVP + RxJava + Retrofit + 项目 + 无APK + 新闻类学习）**](https://github.com/iMeiji/Toutiao)
+基本遵循 Material Design 设计风格
+抓包获取今日头条API
+使用 Google 官方 MVP 架构
+DrawerLayout + NavigationView + BottomNavigationView 搭配使用
+RxBus 代替 EventBus 进行组件之间通讯
+ViewPager 搭配 Fragment 懒加载
+SwipeRefreshLayout 搭配 RecyclerView 下拉刷新上拉加载
+自定义 BottomNavigationBehavior 实现上滑隐藏下滑显示
+RxJava + Retrofit2 + OkHttp3 做网络请求
+OkHttp3 对网络返回内容做缓存, 还有日志、超时重连、头部消息的配置
+V层基类的构建, 包括 BaseActivity 和 BaseFragment , 对外提供了相同的接口
+使用原生的夜间模式
+解决侧滑返回与 View 冲突问题
+内置 3 款 Logo, 随意切换
+使用 CoordinatorLayout 、 AppBarLayout 、 CollapsingToolbarLayout 、 BottomSheetDialog 等等新控件
+使用 7.0 新工具 DiffUtil , 不再无脑 notifyDataSetChanged
+使用 ItemTouchHelper 实现今日头条的频道排序、频道移动, 参考 ItemTouchHelperDemo
+使用 RxBinding 优雅实现搜索请求
+使用 RxLifecycle 绑定 RxJava 生命周期
+使用 Travis Cl 持续集成
+
+
+## [**43、TranslateApp（项目）**](https://github.com/maoruibin/TranslateApp)
+一个实现『划词翻译』功能的 Android 应用 ，可能是目前 Android 市场上翻译效率最高的一款应用。
+
+1、全程使用 Dagger2 对项目进行类依赖管理
+2、项目使用标准的 MVP 架构，关于 MVP 的一篇博客
+3、实现对粘贴板的监听以及访问
+4、无需权限显示悬浮窗（6.0悬浮窗权限适配）
+5、使用 RxJava 探索函数式编程
+6、使用 Retrofit2 进行网络请求
+7、开机自启动
+8、Android 6.0 自定义文本操作栏
