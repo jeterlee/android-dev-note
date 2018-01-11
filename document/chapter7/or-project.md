@@ -1,6 +1,7 @@
 ## 开源项目
 - [Android开源项目第三篇——优秀项目篇](http://www.trinea.cn/android/android-open-source-projects-excellent-project/)
 - [**15个优秀的开源项目，让你轻松应对Android开发**](https://www.jianshu.com/p/ae5b4ba58902)
+- [**10个优秀个android项目，精选|快速开发**](https://www.jianshu.com/p/123915ef3ab7)
 
 
 ### [最火的开源项目（可选择Trending）](https://github.com/trending/java)
@@ -218,4 +219,39 @@ life 是一个多媒体信息app，基于Material Design Kotlin + MVP + RxJava +
 做这款app主要是出于Android日常开发中或多或少的都会仿着ios的样式来写ui（可能设计师就做了一份ios交互设计，android只能跟着去写相同ui），完全舍弃了MD风格，第一出于学习目的做的，第二出于想写一个完全按照MD风格的App。 目前包括以下内容：
 
 
+## [**37、WeiYue（Java版 + Kotlin版 + 架构 + 项目）**](https://github.com/Will-Ls/WeiYue)
+- [Kotlin版本](https://github.com/Will-Ls/WeiYueKotlin)
+- [Java版本](https://github.com/Will-Ls/WeiYue)
+
+ 微阅是一款使用 MVP + Retrofit2 + Rxjava + dagger2 等框架开发的阅读软件。包括新闻、视频、煎蛋三个模块，项目的大部分功能已经完成。
  
+ 
+## [**38、WanAndroidClient（Kotlin + MVP + 项目）**](https://github.com/wangzailfm/WanAndroidClient)
+Kotlin + MVP + Kotlin-Coroutines + Retrofit2(GsonCallAdapterFactory + CoroutineCallAdapterFactory)
+
+
+## [**39、Raymall（后台系统 + 项目）**](https://github.com/Rayhahah/Raymall)
+一个商业化的商城后台系统 学习了对后台的搭建和整个业务逻辑的编写 以及正式环境的上线等
+
+用户管理系统
+商品分类模块
+购物车模块
+收货地址模块
+商品模块
+订单模块
+
+
+## [**40、EasySport（仿虎扑应用EasySport + 项目）**](https://github.com/Rayhahah/EasySports)
+[**仿虎扑应用EasySport连带上后台代码**](https://www.jianshu.com/p/352d8b80af94)
+
+本项目部分API来自NBA中文官网与虎扑体育，纯练手之作，个人未从中获取任何利益，其所有内容均可在NBA中文官网与虎扑体育获取。 数据的获取与共享可能会侵犯到NBA中文官网与虎扑体育的权益，若被告知需停止共享与使用，本人会立即删除整个项目。
+
+项目采用 MaterialDesign + MVP + Retrofit2 + RxJava开发
+
+
+## [**41、BiuBike（地图 + 项目）**](https://github.com/gaoleiandroid1201/BiuBike)
+Android百度地图实例详解之仿摩拜单车APP(包括附近车辆、规划路径、行驶距离、行驶轨迹记录，轨迹回放，导航等)
+
+详情可参考博客：[http://blog.csdn.net/gaolei1201/article/details/60876811](http://blog.csdn.net/gaolei1201/article/details/60876811)
+
+最近共享单车很火，动辄几亿美刀，屌丝的我只有羡慕的份。啥时候自己也能创一番事业呢？我眉头紧皱深深地思索着。自己以前没做过地图有关的项目，看到网上也没有完整有关地图的项目，就想起模仿一下摩拜单车app，我这个小项目包括附近车辆、规划路径、行驶距离、行驶轨迹记录、轨迹回放，导航等（也挺全的哈），其中的附近车辆用的是假数据，行驶轨迹记录都是保存在本地数据库；

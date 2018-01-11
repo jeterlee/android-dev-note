@@ -85,6 +85,7 @@
 ## Android第三方服务
 
 * [前言](document/chapter9.md)
+* [第三方接口](document/chapter9/api.md)
 * [Tencent](document/chapter9/tencent.md)
   * [Bugly](document/chapter9/tencent/bugly.md)
   * [X5Webview](document/chapter9/tencent/x5webview.md)
