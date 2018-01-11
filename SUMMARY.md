@@ -14,7 +14,7 @@
 ## Android基礎
 
 * [前言](document/chapter1.md)
-* [测试工具](document/chapter1/testtool.md)
+* [常用工具](document/chapter1/often-tools.md)
 * [性能优化](document/chapter1/optimization.md)
 * [内存泄露](document/chapter1/memoryleak.md)
 * [代码规范](document/chapter1/standard.md)
@@ -29,7 +29,7 @@
 * [Java知识](document/chapter1/java.md)
 * [其他](document/chapter1/others.md)
 
-## Android控件   
+## Android控件
 
 * [前言](document/chapter2.md)
 * [系统控件](document/chapter2/system_control.md)
@@ -40,7 +40,7 @@
   * [Webview](document/chapter2/system_control/webview.md)
 * [自定义控件](document/chapter2/custom_control.md)
 * [其他](document/chapter2/others.md)
-  
+
 ## Material Designer
 
 * [前言](document/chapter3.md)
@@ -55,14 +55,14 @@
 * [GreenDao3、Realm](document/chapter4/greendao3.md)
 * [组件化](document/chapter4/component.md)
 * [其他](document/chapter4/others.md)
-  
+
 ## Android设计模式
 
 * [前言](document/chapter5.md)
 * [MVP](document/chapter5/mvp.md)
 * [MVVM](document/chapter5/mvvm.md)
 * [AAC](document/chapter5/aac.md)
-  
+
 ## Android项目
 
 * [前言](document/chapter6.md)
@@ -77,7 +77,7 @@
 * [开源库的发布](document/chapter7/or-project-publish.md)
 * [开源协议](document/chapter7/or-protocol.md)
 * [其他](document/chapter7/others.md)
-  
+
 ## Android智能家具
 
 * [前言](document/chapter8.md)
@@ -92,7 +92,7 @@
 * [极光服务](document/chapter9/jiguang.md)
 * [聚合数据](document/chapter9/juhe.md)
 * [支付服务](document/chapter9/pay.md)
-  
+
 ## AndroidStudio
 
 * [前言](document/chapter10.md)
@@ -100,7 +100,7 @@
 * [Intellij Idea快捷键](document/chapter10/shortcuts.md)
 * [多渠道打包](document/chapter10/packchannel.md)
 * [混淆配置](document/chapter10/proguard.md)
-  
+
 ## Android进阶
 
 * [前言](document/chapter11.md)
@@ -111,19 +111,19 @@
 * [热修复、热更新](document/chapter11/hotfix.md)
 * [插件化](document/chapter11/pluggable.md)
 * [源码分析](document/chapter11/source-code.md)
-  
+
 ## Android数据算法
 
 * [前言](document/chapter12.md)
 * [贝塞尔曲线](document/chapter12/bezier.md)
-  
+
 ## Android总结与面试
 
 * [前言](document/chapter13.md)
 * [Android总结](document/chapter13/summary.md)
 * [Android面试](document/chapter13/interview.md)
 * [Android简历](document/chapter13/resume.md)
-  
+
 ## 优秀的论坛社区博客简书
 
 * [前言](document/chapter14.md)

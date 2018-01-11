@@ -50,7 +50,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 ## Android基礎
 
 * [前言](document/chapter1.md)
-* [测试工具](document/chapter1/testtool.md)
+* [常用工具](document/chapter1/often-tools.md)
 * [性能优化](document/chapter1/optimization.md)
 * [内存泄露](document/chapter1/memoryleak.md)
 * [代码规范](document/chapter1/standard.md)
