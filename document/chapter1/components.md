@@ -1,4 +1,5 @@
 ## 四大组件
+- [Context都没弄明白，还怎么做Android开发？](http://www.androidchina.net/7965.html)
 
 
 ### Application
