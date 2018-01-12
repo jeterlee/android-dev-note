@@ -1,4 +1,6 @@
 ## Dagger2
+- [Dagger2 @Component 和@SubComponent 区别解惑](http://blog.csdn.net/soslinken/article/details/70231089)
+- [步骤 Dagger2 的 @Scope 和 @Subcomponent](http://www.zhimengzhe.com/Androidkaifa/163191.html)
 
 
 ### Dagger2（重点推荐）

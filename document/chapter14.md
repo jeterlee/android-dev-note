@@ -29,6 +29,7 @@
 - [Carson_Ho的博客](http://blog.csdn.net/carson_ho)
 - [**_刘某人程序员_**](http://my.csdn.net/qq_26787115)
 - [**亦枫**](http://yifeng.studio/)
+- [**吴佳峻**](http://blog.csdn.net/wu928320442)
 
 
 ### 4、简书
