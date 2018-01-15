@@ -18,16 +18,17 @@ Message，流水线上的"包裹"。
 
 
 ### 2、消息机制原理（重要）
-> 有几个主要元素：
+> 有几个主要元素：  
+1.Message:用来携带子线程中的数据。  
+2.MessageQueue:用来存放所有子线程发来的Message。  
+3.Handler:用来在子线程中发送Message，在主线程中接受Message，处理结果。  
+4.Looper:是一个消息循环器，一直循环遍历MessageQueue，从MessageQueue中取一个Message，派发给Handler处理。  
 
-	1.Message:用来携带子线程中的数据。
-	2.MessageQueue:用来存放所有子线程发来的Message.
-	3.Handler:用来在子线程中发送Message，在主线程中接受Message，处理结果
-	4.Looper:是一个消息循环器，一直循环遍历MessageQueue，从MessageQueue中取一个Message，派发给Handler处理。
+##### 面试：子线程一定不能更新UI？ 
+SurfaceView ：多媒体视频播放 ,可以在子线程中更新UI； Progress（进度）相关的控件：也是可以在子线程中更新Ui;审计机制：activity完全显示的时候审计机制才会去检测子线程有没有更新Ui。
 
 
-
-### 2、Thread线程
+### 3、Thread线程
 - [JAVA多线程实现和应用总结](http://www.cnblogs.com/yezhenhan/archive/2010/01/09/2317636.html)
 
 
