@@ -1,5 +1,6 @@
 ## 性能优化
 - [Android App优化之性能分析工具](http://www.jianshu.com/p/da2a4bfcba68)
+- [Android APP 性能优化的一些思考](https://www.jianshu.com/p/9755da0f4e8f)
 
 
 ### Android性能优化系列

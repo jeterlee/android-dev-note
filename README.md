@@ -92,6 +92,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 * [前言](document/chapter4.md)
 * [RxJava2、RxAndroid](document/chapter4/rxjava2.md)
 * [Dagger2](document/chapter4/dagger2.md)
+* [OkHttp3](document/chapter4/okhttp3.md)
 * [Retrofit2](document/chapter4/retrofit2.md)
 * [GreenDao3、Realm](document/chapter4/greendao3.md)
 * [组件化](document/chapter4/component.md)

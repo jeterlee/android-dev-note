@@ -1,4 +1,5 @@
 ## Handler与Thread
+- [Handler深入（分析源码，手写一套Handler）](https://www.jianshu.com/p/91aa90886347)
 
 
 ### 1、Handler机制

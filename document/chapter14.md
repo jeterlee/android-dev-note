@@ -30,6 +30,7 @@
 - [**_刘某人程序员_**](http://my.csdn.net/qq_26787115)
 - [**亦枫**](http://yifeng.studio/)
 - [**吴佳峻**](http://blog.csdn.net/wu928320442)
+- [Mirs_sir](http://my.csdn.net/a109340)
 
 
 ### 4、简书
