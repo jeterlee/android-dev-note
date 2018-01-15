@@ -2,7 +2,7 @@
 - [Handler深入（分析源码，手写一套Handler）](https://www.jianshu.com/p/91aa90886347)
 
 
-### 1、Handler机制
+### 1、Handler机制（推荐）
 - [Android的Handler消息机制详解](http://www.jianshu.com/p/c21a15aec3b1)
 - [[图解法结合源码]理解、记忆Handler、Looper、MessageQueue之间的关系](http://blog.csdn.net/Shenpibaipao/article/details/70214927)
 - [手把手带你从源码的角度全面理解Handler、Looper、MessageQueue之间的关系](http://blog.csdn.net/yang_song_song/article/details/76212532)
@@ -25,7 +25,7 @@ Message，流水线上的"包裹"。
 4.Looper:是一个消息循环器，一直循环遍历MessageQueue，从MessageQueue中取一个Message，派发给Handler处理。  
 
 ##### 面试：子线程一定不能更新UI？ 
-SurfaceView ：多媒体视频播放 ,可以在子线程中更新UI； Progress（进度）相关的控件：也是可以在子线程中更新Ui;审计机制：activity完全显示的时候审计机制才会去检测子线程有没有更新Ui。
+SurfaceView ：多媒体视频播放 ,可以在子线程中更新UI； Progress（进度）相关的控件：也是可以在子线程中更新Ui；审计机制：activity完全显示的时候审计机制才会去检测子线程有没有更新Ui。
 
 
 ### 3、Thread线程
