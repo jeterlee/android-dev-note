@@ -164,6 +164,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 * [前言](document/chapter13.md)
 * [Android总结](document/chapter13/summary.md)
 * [Android面试](document/chapter13/interview.md)
+  * [面试大纲](document/chapter13/interview/interview-outline.md)
 * [Android简历](document/chapter13/resume.md)
 
 ## 优秀的论坛社区博客简书
