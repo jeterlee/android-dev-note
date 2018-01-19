@@ -158,6 +158,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 * [前言](document/chapter12.md)
 * [贝塞尔曲线](document/chapter12/bezier.md)
+* [二叉树](document/chapter12/binary-tree.md)
 
 ## Android总结与面试
 
