@@ -16,6 +16,9 @@
 
 
 ### 2、Android RxJava实战教程
+
+#### [Android RxJava：这是一份全面 & 详细 的RxJava操作符 使用攻略](https://www.jianshu.com/p/cd984dd5aae8)
+
 - [Android：手把手带你入门神秘的 Rxjava](http://blog.csdn.net/carson_ho/article/details/78179340)
 - [Android RxJava操作符详解系列： 创建操作符](http://blog.csdn.net/carson_ho/article/details/78246732)
 - [Android RxJava 实战讲解：优雅实现 网络请求轮询](http://blog.csdn.net/carson_ho/article/details/78256466)

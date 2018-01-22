@@ -1,4 +1,5 @@
 ## Java进阶
+- [精练代码：一次Java函数式编程的重构之旅](http://www.cnblogs.com/lovesqcc/p/7077971.html)
 
 
 ### 数据结构
