@@ -3,6 +3,16 @@
 - [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](https://www.ctolib.com/topics-117156.html)
 
 
+### Android 架构师之路 目录
+- [Android 架构师之路1 UML图之用例图](https://www.jianshu.com/p/c842d164eba4)
+- [Android 架构师之路2 UML图之类图](https://www.jianshu.com/p/b8135a2a7e40)
+- [Android 架构师之路3 UML图之时序图](https://www.jianshu.com/p/e3cd49f018fe)
+- [Android 架构师之路4 设计模式6大设计原则](https://www.jianshu.com/p/c35ec266ec73)
+- [Android 架构师之路5 设计模式之单例模式](https://www.jianshu.com/p/6bbeccc2ba93)
+- [Android 架构师之路6 设计模式之工厂模式](https://www.jianshu.com/p/96c83ea71adc)
+- [Android 架构师之路8 AOP 面向切面编程](https://www.jianshu.com/p/f340e5b925e6)
+
+
 ### 1、设计模式笔记
 - [设计模式笔记之一：MVP架构模式入门（转）](http://www.cnblogs.com/longjunhao/p/5858558.html)
 - [设计模式笔记之二：Android开发中的MVP架构（转）](http://www.cnblogs.com/longjunhao/p/5858560.html)
