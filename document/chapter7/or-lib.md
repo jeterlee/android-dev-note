@@ -6,3 +6,7 @@
 - [[Android开源]一套快速高效的开发框架EasyAndroid](http://blog.csdn.net/wu928320442/article/details/70666908)
 - [EasyAndroid](https://github.com/wu928320442/EasyAndroid)
 - [RxEasyAndroid](https://github.com/wu928320442/RxEasyAndroid)
+
+
+## 工具类
+- [第一篇随笔——Android开发中常用到的工具类](http://www.apkbus.com/blog-685845-76823.html)

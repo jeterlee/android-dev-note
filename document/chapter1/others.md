@@ -1,5 +1,9 @@
 ## 其他
 
+### LayoutInflater
+- [LayoutInflater 布局渲染工具原理分析](https://www.jianshu.com/p/36f6b83fd6de)
+- [ Android 探究 LayoutInflater setFactory](http://blog.csdn.net/lmj623565791/article/details/51503977)
+
 ### 开发工具
 - [30款android开发高效必备工具（附下载地址）](http://www.cniao5.com/forum/thread/1744a590cb5f11e7b6be00163e0230fa)
 
@@ -15,5 +19,7 @@
 ### 混淆
 
 ### 其他
-- [ Android 探究 LayoutInflater setFactory](http://blog.csdn.net/lmj623565791/article/details/51503977)
+- [Android Studio Set of source 代码源集](https://www.jianshu.com/p/a8870dccda1f)
+- [Android Studio BuildType 构建类型](https://www.jianshu.com/p/a0e8f1c756ed)
+
 

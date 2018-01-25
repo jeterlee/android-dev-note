@@ -3,6 +3,7 @@
 - [**完整开源项目**](http://www.wanandroid.com/article/list/0?cid=254)
 - [**15个优秀的开源项目，让你轻松应对Android开发**](https://www.jianshu.com/p/ae5b4ba58902)
 - [**10个优秀个android项目，精选|快速开发**](https://www.jianshu.com/p/123915ef3ab7)
+- [**最新Android框架排行榜**](http://www.apkbus.com/blog-871347-76944.html)
 
 
 ### [最火的开源项目（可选择Trending）](https://github.com/trending/java)
