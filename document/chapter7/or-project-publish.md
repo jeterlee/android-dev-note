@@ -1,9 +1,15 @@
 ## 开源库的发布
-- [Android 2017 开源库总结(持续更新)](http://www.apkbus.com/blog-912299-76478.html)
 - [**放弃JitPack，发布Android Library到Bintray、JCenter**](https://www.jianshu.com/p/9f81d5b5a451)
 - [**优雅的发布Android开源库(论JitPack的优越性)**](http://www.jianshu.com/p/4cfa850c01f5)
+- [**利用bintray-release插件上传到jcenter**](http://blog.csdn.net/roly_yu/article/details/53486731)
+- [Android 2017 开源库总结(持续更新)](http://www.apkbus.com/blog-912299-76478.html)
 - [利用Bintray五分钟上传Android library到JCenter](http://www.jianshu.com/p/eb44c482b464)
 - [5分钟用Jitpack发布开源库](http://blog.csdn.net/qq_34507976/article/details/54016056)
+
+
+### bintray-release系列（重点推荐）
+- [bintray-release使用指南（一）](https://www.jianshu.com/p/b4c46ee78b2f)
+- [bintray-release配置publish闭包（二）](https://www.jianshu.com/p/e21602730aef)
 
 
 
