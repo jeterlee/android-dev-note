@@ -26,4 +26,6 @@
 - [谈谈为什么写单元测试](https://www.jianshu.com/p/fa41fb80d2b8)
 - [Android单元测试 - 如何开始？](https://www.jianshu.com/p/bc99678b1d6e)
 
+### 代码覆盖率测试（jacoco）
+
 

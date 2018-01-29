@@ -17,7 +17,5 @@
 - [bintray-release添加对Maven Central同步的支持（五）](https://www.jianshu.com/p/06248ed5a0f2)
 
 
-### jacoco（代码覆盖率）
-
 
 
