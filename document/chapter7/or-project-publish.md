@@ -1,5 +1,6 @@
 ## 开源库的发布
 - [**放弃JitPack，发布Android Library到Bintray、JCenter**](https://www.jianshu.com/p/9f81d5b5a451)
+- [**Android Studio提交库至Bintray jCenter从入门到放弃**](https://www.jianshu.com/p/31410d71eaba)
 - [**优雅的发布Android开源库(论JitPack的优越性)**](http://www.jianshu.com/p/4cfa850c01f5)
 - [**利用bintray-release插件上传到jcenter**](http://blog.csdn.net/roly_yu/article/details/53486731)
 - [上传android library 到bintray](https://www.jianshu.com/p/499a086e3bab/)
