@@ -3,6 +3,8 @@
 
 ### 1、Gradle 资料
 - [Gradle的Properties](http://blog.csdn.net/eastlhu/article/details/50206287)
+- [Android Studio3.x新的依赖方式（implementation、api、compileOnly）](http://blog.csdn.net/yuzhiqiang_1993/article/details/78366985)
+- [com.android.support冲突的解决办法](http://blog.csdn.net/yuzhiqiang_1993/article/details/78214812)
 
 
 ### 2、Groovy 资料
