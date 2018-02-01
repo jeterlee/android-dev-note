@@ -7,3 +7,4 @@
 - [IntelliJ IDEA 快捷键和设置](https://www.cnblogs.com/bluestorm/archive/2013/05/20/3087889.html)
 - [** 10 个你有可能不知道的Android Studio技巧**](http://blog.csdn.net/yyh352091626/article/details/52786747)
 - [**干货满满！20篇IntelliJ IDEA使用技巧整理！**](http://www.androidchina.net/7874.html)
+- [**Android Studio 小技巧/快捷键 合集**](https://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
