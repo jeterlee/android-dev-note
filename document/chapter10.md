@@ -12,7 +12,7 @@
 ### 2、Android Studio 插件
 - [AndroidStudio上面最好用的插件](http://www.jianshu.com/p/d76b60a3883d)
 - [图文并茂全面总结Android Studio好用的插件(IDE通用)](http://www.jianshu.com/p/269a48d7508d)
-- [ jrebel for android 即时更新代码和资源 [破解]](http://blog.csdn.net/qqduxingzhe/article/details/77510900)
+- [jrebel for android 即时更新代码和资源 [破解]](http://blog.csdn.net/qqduxingzhe/article/details/77510900)
 
 
 ### 3、Android Studio 3.X
