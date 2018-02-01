@@ -25,7 +25,7 @@
 
 
 ### bintray坑
-- 问题一：
+- **问题一**
 ```
 FAILURE: Build failed with an exception.
 
@@ -45,7 +45,16 @@ android {
 * Try:        
 Run with --debug option to get more log output.
 ```
-
+**解决方法：添加下面代码**
+```
+android {
+    lintOptions {
+        abortOnError false
+    }
+}
+```
+---
+- **问题二**
 
 
 
