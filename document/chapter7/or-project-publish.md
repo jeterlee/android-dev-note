@@ -24,5 +24,29 @@
 - [bintray-release添加对Maven Central同步的支持（五）](https://www.jianshu.com/p/06248ed5a0f2)
 
 
+### bintray坑
+- 问题一：
+```
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:lint'.
+> Lint found errors in the project; aborting build.
+
+Fix the issues identified by lint, or add the following to your build script to proceed with errors:
+...
+android {
+    lintOptions {
+        abortOnError false
+    }
+}
+...
+
+* Try:        
+Run with --debug option to get more log output.
+```
+
+
+
 
 
