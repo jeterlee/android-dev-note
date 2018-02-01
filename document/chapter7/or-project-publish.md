@@ -45,7 +45,7 @@ android {
 * Try:        
 Run with --debug option to get more log output.
 ```
-**解决方法：添加下面代码**
+**解决方法：添加下面代码（若任然出错，到要分享的module对应的build.gradle，但一个项目中还有其他的module，然而其他的module我并没有添加，我以为其他不添加也不会有什么影响，我错了，问题就出在这里。）**
 ```
 android {
     lintOptions {
@@ -53,8 +53,170 @@ android {
     }
 }
 ```
----
+-------------------------------------------------------------------------------------------------
 - **问题二**
+```
+Could not create package 'huangxuanheng/maven/fragmentstack': HTTP/1.1 404 Not Found [message:Repo 'maven' was not found]
+```
+**解决方法：在我注册的bintray.com账号里面的maven仓库没有找到（这个是bintray默认的仓库名称），直接新建以maven为名的Maven仓库，或者bintray.com账号里面的仓库命名不是maven，自定义名称，这是上传时需要指定仓库名（repoName）**
+-------------------------------------------------------------------------------------------------
+- **问题三**
+```
+> Invalid publication 'release': artifact file does not exist: 'K:\...\...\...\build\outputs\aar\....aar'
+```
+**解决方法：添加下面代码**
+```
+// This copy javadoc（拷贝javadoc文件）
+task copyDoc(type: Copy) {
+    from "${buildDir}/docs/"
+    into "docs"
+}
+```
+-------------------------------------------------------------------------------------------------
+- **问题四：错误: 编码GBK的不可映射字符->请正确配置javadoc编码**
+**解决方法：添加下面代码（单纯的Java库似乎没用！）**
+```
+// javadoc configuration
+javadoc {
+    options{
+        encoding "UTF-8"
+        charSet 'UTF-8'
+        author true
+        version projectVersionName
+        links "http://docs.oracle.com/javase/7/docs/api"
+        title javadocName
+    }
+}
+```
+**注意下面这种写法要放到project的build.gradle（否则容易编译出错）**
+```
+java//生成文档
+       task javadoc(type: Javadoc) {
+           options.encoding "UTF-8"
+           options.charSet 'UTF-8'
+       }
+```
+-------------------------------------------------------------------------------------------------
+- **问题五：错误: 不允许使用自关闭元素**
+**解决方法：请删除javadoc注释里面所有的含有html标签**
+-------------------------------------------------------------------------------------------------
+- **问题六：错误: 程序包android.support.v7.widget不存在；错误: 找不到符号**
+```
+:sherlockspinner:javadoc
+/path/.../xxx.java:7: 错误: 程序包android.support.annotation不存在
+import android.support.annotation.ColorInt;
+                                 ^
+/path/.../xxx.java:8: 错误: 程序包android.support.annotation不存在
+import android.support.annotation.ColorRes;
+                                 ^
+/path/.../xxx.java:9: 错误: 程序包android.support.annotation不存在
+import android.support.annotation.DrawableRes;
+                                 ^
+/path/.../xxx.java:10: 错误: 程序包android.support.v4.content不存在
+import android.support.v4.content.ContextCompat;
+                                 ^
+/path/.../xxx.java:11: 错误: 程序包android.support.v4.view不存在
+import android.support.v4.view.ViewCompat;
+                              ^
+/path/.../xxx.java:12: 错误: 程序包android.support.v7.widget不存在
+import android.support.v7.widget.AppCompatEditText;
+                                ^
+/path/.../xxx.java:13: 错误: 程序包android.support.v7.widget不存在
+import android.support.v7.widget.ListPopupWindow;
+                                ^
+/path/.../xxx.java:27: 错误: 找不到符号
+public class SherlockSpinner extends AppCompatEditText {
+                                     ^
+  符号: 类 AppCompatEditText
+/path/.../xxx.java:35: 错误: 找不到符号
+    private ListPopupWindow mListPopupWindow;
+            ^
+  符号:   类 ListPopupWindow
+  位置: 类 SherlockSpinner
+/path/.../xxx.java:140: 错误: 找不到符号
+    public void setLineColorResource(@ColorRes int resId) {
+                                      ^
+  符号:   类 ColorRes
+  位置: 类 SherlockSpinner
+/path/.../xxx.java:149: 错误: 找不到符号
+    public void setLineColor(@ColorInt int color) {
+                              ^
+  符号:   类 ColorInt
+  位置: 类 SherlockSpinner
+/path/.../xxx.java:208: 错误: 找不到符号
+    public void setDropdownIcon(@DrawableRes int resId) {
+                                 ^
+  符号:   类 DrawableRes
+  位置: 类 SherlockSpinner
+/path/.../xxx.java:138: 警告: @param 没有说明
+     * @param resId
+       ^
+/path/.../xxx.java:147: 警告: @param 没有说明
+     * @param color
+       ^
+/path/.../xxx.java:170: 错误: 找不到引用
+     * @see #setClickable(boolean)
+            ^
+/path/.../xxx.java:172: 警告 - 标记@see: 在com.sherlockshi.widget.SherlockSpinner中找不到setClickable(boolean)
+/path/.../xxx.java:206: 警告: @param 没有说明
+     * @param resId
+       ^
+javadoc: 警告 - 找不到类ColorRes。
+javadoc: 警告 - 找不到类ColorInt。
+javadoc: 警告 - 找不到类DrawableRes。
+1 个错误
+19 个警告
+:sherlockspinner:javadoc FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':sherlockspinner:javadoc'.
+> Javadoc generation failed. Generated Javadoc options file (useful for troubleshooting): '/Users/sherlock/work/workspace/AndroidStudio/SherlockSpinner/sherlockspinner/build/tmp/javadoc/javadoc.options'
+```
+
+**解决方法：在javadoc中加入忽略错误配置（找不到符号——删除javadoc里所有的html标签，编码GBK的不可映射字符 ——注释不要用中文，或者修改项目的字符编码，删除@see #setClickable(boolean)这一行代码注释。）**
+```
+ //生成文档
+  task javadoc(type: Javadoc) {
+      failOnError false
+  }
+```
+-------------------------------------------------------------------------------------------------
+- **问题七：Could not create version ‘0.1’: HTTP/1.1 401 Unauthorized [message:This resource requires authentication]**
+**解决方法：没有配置正确的API Key**
+-------------------------------------------------------------------------------------------------
+- **问题八：没有有效的POM文件**
+**解决方法：一定要按步骤执行并没有配置正确的API Key**
+-------------------------------------------------------------------------------------------------
+- **问题九：编译上传时，提示jar包未找到**
+```
+:aspectratioimageview:bintrayUpload: file /Users/sherlock/work/workspace/AndroidStudio/AspectRatioImageView/aspectratioimageview/build/libs/aspectratioimageview-1.0.1-javadoc.jar could not be found.
+:aspectratioimageview:bintrayUpload: file /Users/sherlock/work/workspace/AndroidStudio/AspectRatioImageView/aspectratioimageview/build/libs/aspectratioimageview-1.0.1-sources.jar could not be found.
+```
+**解决方法：先执行gradlew install，再执行gradlew bintrayUpload**
+-------------------------------------------------------------------------------------------------
+- **问题十：没有有效的POM文件**
+**解决方法：一定要按步骤执行并没有配置正确的API Key**
+-------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
