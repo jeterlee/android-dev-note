@@ -45,6 +45,7 @@ android {
 * Try:        
 Run with --debug option to get more log output.
 ```
+
 **解决方法：添加下面代码（若任然出错，到要分享的module对应的build.gradle，但一个项目中还有其他的module，然而其他的module我并没有添加，我以为其他不添加也不会有什么影响，我错了，问题就出在这里。）**
 ```
 android {
@@ -58,12 +59,14 @@ android {
 ```
 Could not create package 'huangxuanheng/maven/fragmentstack': HTTP/1.1 404 Not Found [message:Repo 'maven' was not found]
 ```
+
 **解决方法：在我注册的bintray.com账号里面的maven仓库没有找到（这个是bintray默认的仓库名称），直接新建以maven为名的Maven仓库，或者bintray.com账号里面的仓库命名不是maven，自定义名称，这是上传时需要指定仓库名（repoName）**
 -------------------------------------------------------------------------------------------------
 - **问题三**
 ```
 > Invalid publication 'release': artifact file does not exist: 'K:\...\...\...\build\outputs\aar\....aar'
 ```
+
 **解决方法：添加下面代码**
 ```
 // This copy javadoc（拷贝javadoc文件）
@@ -74,6 +77,7 @@ task copyDoc(type: Copy) {
 ```
 -------------------------------------------------------------------------------------------------
 - **问题四：错误: 编码GBK的不可映射字符->请正确配置javadoc编码**
+
 **解决方法：添加下面代码（单纯的Java库似乎没用！）**
 ```
 // javadoc configuration
@@ -88,6 +92,7 @@ javadoc {
     }
 }
 ```
+
 **注意下面这种写法要放到project的build.gradle（否则容易编译出错）**
 ```
 java//生成文档
@@ -98,6 +103,7 @@ java//生成文档
 ```
 -------------------------------------------------------------------------------------------------
 - **问题五：错误: 不允许使用自关闭元素**
+
 **解决方法：请删除javadoc注释里面所有的含有html标签**
 -------------------------------------------------------------------------------------------------
 - **问题六：错误: 程序包android.support.v7.widget不存在；错误: 找不到符号**
@@ -184,9 +190,11 @@ Execution failed for task ':sherlockspinner:javadoc'.
 ```
 -------------------------------------------------------------------------------------------------
 - **问题七：Could not create version ‘0.1’: HTTP/1.1 401 Unauthorized [message:This resource requires authentication]**
+
 **解决方法：没有配置正确的API Key**
 -------------------------------------------------------------------------------------------------
 - **问题八：没有有效的POM文件**
+
 **解决方法：一定要按步骤执行并没有配置正确的API Key**
 -------------------------------------------------------------------------------------------------
 - **问题九：编译上传时，提示jar包未找到**
@@ -194,9 +202,11 @@ Execution failed for task ':sherlockspinner:javadoc'.
 :aspectratioimageview:bintrayUpload: file /Users/sherlock/work/workspace/AndroidStudio/AspectRatioImageView/aspectratioimageview/build/libs/aspectratioimageview-1.0.1-javadoc.jar could not be found.
 :aspectratioimageview:bintrayUpload: file /Users/sherlock/work/workspace/AndroidStudio/AspectRatioImageView/aspectratioimageview/build/libs/aspectratioimageview-1.0.1-sources.jar could not be found.
 ```
+
 **解决方法：先执行gradlew install，再执行gradlew bintrayUpload**
 -------------------------------------------------------------------------------------------------
 - **问题十：没有有效的POM文件**
+
 **解决方法：一定要按步骤执行并没有配置正确的API Key**
 -------------------------------------------------------------------------------------------------
 
