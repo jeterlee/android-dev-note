@@ -9,6 +9,7 @@
 
 ### 2、主题样式
 - [Android 系统状态栏沉浸式/透明化完整解决方案](https://www.jianshu.com/p/34a8b40b9308)
+- [ AndroidSDK Support自带夜间、日间模式切换详解](http://blog.csdn.net/yanzhenjie1003/article/details/52464363)
 
 
 ### 3、资源详解
