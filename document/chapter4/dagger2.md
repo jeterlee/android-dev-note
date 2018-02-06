@@ -6,6 +6,7 @@
 ### Dagger2（重点推荐）
 - [**Dagger2 入门详解（一）**](http://blog.csdn.net/xx326664162/article/details/53695558)
 - [**@Scope 看这一篇就够了——Dagger2 （二）**](http://blog.csdn.net/xx326664162/article/details/67640509)
+- [**Dagger2从入门到放弃再到恍然大悟**](http://blog.csdn.net/hsk256/article/details/51530667)
 
 > **注意事件（重要）**
 >
