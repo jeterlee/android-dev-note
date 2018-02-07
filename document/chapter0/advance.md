@@ -4,3 +4,6 @@
 
 ### 数据结构
 - [JDK1.8 不一样的HashMap](http://www.apkbus.com/blog-487165-76822.html)
+
+### JVM
+- [Java 内存模型 JMM 浅析](http://www.codeceo.com/article/javamemorymodel.html)
