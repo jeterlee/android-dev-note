@@ -3,7 +3,7 @@
 - [详细解析RxAndroid的使用方式](https://www.jianshu.com/p/6d1ef9f43cdc)
 
 
-### 1、给初学者的RxJava2.0教程
+### 1、给初学者的RxJava2.0教程（重点推荐）
 - [给初学者的RxJava2.0教程(一)](http://www.jianshu.com/p/464fa025229e)
 - [给初学者的RxJava2.0教程(二)](http://www.jianshu.com/p/8818b98c44e2)
 - [给初学者的RxJava2.0教程(三)](http://www.jianshu.com/p/128e662906af)

@@ -98,7 +98,7 @@
 ## AndroidStudio
 
 * [前言](document/chapter10.md)
-* [Gradle与Groovy](document/chapter10/groovy.md)
+* [Gradle与Groovy](document/chapter10/gradle.md)
 * [Intellij Idea快捷键](document/chapter10/shortcuts.md)
 * [多渠道打包](document/chapter10/packchannel.md)
 * [混淆配置](document/chapter10/proguard.md)
