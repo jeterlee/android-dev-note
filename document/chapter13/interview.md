@@ -12,4 +12,5 @@
 
 ### 2、Android面试题
 - [Android面试题之Intent解密](http://www.jianshu.com/p/70bceae06768)
-
+- [最全的BAT大厂面试题整理](https://github.com/AweiLoveAndroid/CommonDevKnowledge)
+- [android_interview](https://github.com/LRH1993/android_interview)
