@@ -9,6 +9,8 @@
 
 ### 检测卡顿工具
 - [**重点推荐：AndroidPerformanceMonitor**](https://github.com/markzhai/AndroidPerformanceMonitor)
+- [BlockCanary — 轻松找出Android App界面卡顿元凶](https://www.jianshu.com/p/cd7fc77405ac)
+- [Android应用ANR检测工具BlockCanary试用小记](http://blog.csdn.net/swordgirl2011/article/details/52264449)
 
 ### Android压力测试
 - [android压力测试命令monkey详解](http://blog.csdn.net/xiangyunwan/article/details/71642114)
