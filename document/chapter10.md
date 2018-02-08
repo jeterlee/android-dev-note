@@ -1,5 +1,6 @@
 ## AndroidStudio
 - [最全面的AndroidStudio配置指南总结-包括护眼模式](http://blog.csdn.net/lsyz0021/article/details/51356292)
+- [为AndroidStudio设置自定义类注释](https://www.jianshu.com/p/4c42f4152d84)
 
 
 ### 1、拥抱 Android Studio 系列
