@@ -8,3 +8,8 @@
 
 ### 额外的知识
 - [System.getProperty("line.separator") 是什么意思?](http://blog.csdn.net/zhpengfei0915/article/details/20614639)
+
+
+### 注释
+- [javadoc 和 javadoc注释规范](https://www.cnblogs.com/felix-/p/4310229.html)
+- [详细聊聊Javadoc注释规范](http://blog.csdn.net/garfielder007/article/details/54959597)
