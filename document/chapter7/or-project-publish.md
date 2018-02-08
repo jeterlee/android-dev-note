@@ -209,6 +209,30 @@ Execution failed for task ':sherlockspinner:javadoc'.
 
 **解决方法：一定要按步骤执行并没有配置正确的API Key**
 -------------------------------------------------------------------------------------------------
+- **问题十一：Execution failed for task ':library:generateDebugJavadoc'**
+
+```
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':library:generateDebugJavadoc'.
+> Javadoc generation failed. Generated Javadoc options file (useful for troubleshooting): '/home/gitlab_ci_runner/gitlab-ci-runner/tmp/builds/project-9/library/build/tmp/generateDebugJavadoc/javadoc.options'
+```
+
+**解决方法：在project的build中增加以下代碼：**
+
+```
+allprojects {
+    repositories {
+        jcenter()
+    }
+    tasks.withType(Javadoc) {
+        options.addStringOption('Xdoclint:none', '-quiet')
+        options.addStringOption('encoding', 'UTF-8')
+    }
+}
+```
+-------------------------------------------------------------------------------------------------
 
 
 
