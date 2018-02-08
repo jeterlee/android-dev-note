@@ -233,6 +233,12 @@ allprojects {
 }
 ```
 -------------------------------------------------------------------------------------------------
+- **问题十二：Android 项目打包到 JCenter 的坑**
+
+**解决方法：參考下列資料**
+    - [https://stackoverflow.com/questions/23297562/gradle-javadoc-and-android-documentation/24026735#24026735](https://stackoverflow.com/questions/23297562/gradle-javadoc-and-android-documentation/24026735#24026735)
+    - [https://gist.github.com/douo/ef1856415c461953d3c1](https://gist.github.com/douo/ef1856415c461953d3c1)
+    - [https://github.com/douo/ActivityBuilder/blob/master/release.gradle](https://github.com/douo/ActivityBuilder/blob/master/release.gradle)
 
 
 
