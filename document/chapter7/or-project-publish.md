@@ -219,7 +219,7 @@ Execution failed for task ':library:generateDebugJavadoc'.
 > Javadoc generation failed. Generated Javadoc options file (useful for troubleshooting): '/home/gitlab_ci_runner/gitlab-ci-runner/tmp/builds/project-9/library/build/tmp/generateDebugJavadoc/javadoc.options'
 ```
 
-**解决方法：在project的build中增加以下代碼：**
+**解决方法：在project的build中增加以下代碼：[上传jcenter的“第一次”所遇到的坑](http://blog.csdn.net/xingshen58/article/details/51644599)**
 
 ```
 allprojects {
