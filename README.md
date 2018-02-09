@@ -132,6 +132,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 ## Android人工智能
 
 * [前言](android/artificial_intelligence/README.md)
+* [人脸识别](android/artificial_intelligence/face_identification.md)
 
 ## Android第三方服务
 
@@ -157,6 +158,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 * [前言](android/advance/README.md)
 * [图片处理](android/advance/picture.md)
 * [图表应用](android/advance/chat.md)
+* [摄像头与扫码](android/advance/camera_scan.md)
 * [分享实现](android/advance/share.md)
 * [JNI与NDK](android/advance/jni.md)
 * [热修复、热更新](android/advance/hotfix.md)

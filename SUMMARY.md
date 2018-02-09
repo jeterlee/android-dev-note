@@ -38,11 +38,11 @@
 
 * [前言](android/control/README.md)
 * [系统控件](android/control/system_control/README.md)
-	* [CoordinatorLayout](android/control/system_control/coordinatorlayout.md)
-	* [ConstraintLayout](android/control/system_control/constraintlayout.md)
-	* [RecyclerView](android/control/system_control/recyclerview.md)
-	* [ImageView](android/control/system_control/imageview.md)
-	* [Webview](android/control/system_control/webview.md)
+  * [CoordinatorLayout](android/control/system_control/coordinatorlayout.md)
+  * [ConstraintLayout](android/control/system_control/constraintlayout.md)
+  * [RecyclerView](android/control/system_control/recyclerview.md)
+  * [ImageView](android/control/system_control/imageview.md)
+  * [Webview](android/control/system_control/webview.md)
 * [自定义控件](android/control/custom_control.md)
 * [其他](android/control/others.md)
 
@@ -91,14 +91,15 @@
 ## Android人工智能
 
 * [前言](android/artificial_intelligence/README.md)
+* [人脸识别](android/artificial_intelligence/face_identification.md)
 
 ## Android第三方服务
 
 * [前言](android/third-party_service/README.md)
 * [第三方接口](android/third-party_service/api.md)
 * [Tencent](android/third-party_service/tencent/README.md)
-	* [Bugly](android/third-party_service/tencent/bugly.md)
-	* [X5Webview](android/third-party_service/tencent/x5webview.md)
+  * [Bugly](android/third-party_service/tencent/bugly.md)
+  * [X5Webview](android/third-party_service/tencent/x5webview.md)
 * [极光服务](android/third-party_service/jiguang.md)
 * [聚合数据](android/third-party_service/juhe.md)
 * [支付服务](android/third-party_service/pay.md)
@@ -116,6 +117,7 @@
 * [前言](android/advance/README.md)
 * [图片处理](android/advance/picture.md)
 * [图表应用](android/advance/chat.md)
+* [摄像头与扫码](android/advance/camera_scan.md)
 * [分享实现](android/advance/share.md)
 * [JNI与NDK](android/advance/jni.md)
 * [热修复、热更新](android/advance/hotfix.md)
@@ -133,7 +135,7 @@
 * [前言](android/summary_interview/README.md)
 * [Android总结](android/summary_interview/summary.md)
 * [Android面试](android/summary_interview/interview/README.md)
-	* [面试大纲](android/summary_interview/interview/interview-outline.md)
+  * [面试大纲](android/summary_interview/interview/interview-outline.md)
 * [Android简历](android/summary_interview/resume.md)
 
 ## 优秀的论坛社区博客简书
