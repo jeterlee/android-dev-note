@@ -31,7 +31,6 @@
 * [四大组件](android/basis/components.md)
 * [屏幕适配](android/basis/screen-adaptation.md)
 * [各版本新特性](android/basis/version.md)
-* [Java知识](android/basis/java.md)
 * [其他](android/basis/others.md)
 
 ## Android控件
