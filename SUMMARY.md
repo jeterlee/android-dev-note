@@ -132,7 +132,7 @@
 
 * [前言](android/summary_interview/README.md)
 * [Android总结](android/summary_interview/summary.md)
-* [Android面试](android/summary_interview/README.md)
+* [Android面试](android/summary_interview/interview/README.md)
 	* [面试大纲](android/summary_interview/interview/interview-outline.md)
 * [Android简历](android/summary_interview/resume.md)
 
