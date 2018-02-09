@@ -3,5 +3,5 @@
 
 
 ## 目录
-* [Bugly](android/third-party_service/tencent/bugly.md)
-* [X5Webview](android/third-party_service/tencent/x5webview.md)
+* [Bugly](bugly.md)
+* [X5Webview](x5webview.md)

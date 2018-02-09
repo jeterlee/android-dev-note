@@ -3,15 +3,18 @@
 
 
 ## 目录
-* [Gradle与Groovy](android/android_studio/gradle.md)
-* [Intellij Idea快捷键](android/android_studio/shortcuts.md)
-* [多渠道打包](android/android_studio/packchannel.md)
-* [混淆配置](android/android_studio/proguard.md)
+* [Gradle与Groovy](gradle.md)
+* [Intellij Idea快捷键](shortcuts.md)
+* [多渠道打包](packchannel.md)
+* [混淆配置](proguard.md)
 
 
 ## 参考资料
 - [最全面的AndroidStudio配置指南总结-包括护眼模式](http://blog.csdn.net/lsyz0021/article/details/51356292)
 - [为AndroidStudio设置自定义类注释](https://www.jianshu.com/p/4c42f4152d84)
+
+
+---
 
 
 #### 系列：1、拥抱 Android Studio 系列

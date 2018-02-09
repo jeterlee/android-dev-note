@@ -3,7 +3,7 @@
 
 
 ## 目录
-* [面试大纲](android/summary_interview/interview/interview-outline.md)
+* [面试大纲](interview-outline.md)
 
 
 ## 参考资料

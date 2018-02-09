@@ -3,7 +3,7 @@
 
 
 ## 目录
-* [其他](android/material_design/others.md)
+* [其他](others.md)
 
 
 ## 参考资料

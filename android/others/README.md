@@ -3,7 +3,7 @@
 
 
 ## 目录
-* [GitHub](android/others/github.md)
-* [GitBook](android/others/gitbook.md)
-* [Markdown](android/others/markdown.md)
+* [GitHub](github.md)
+* [GitBook](gitbook.md)
+* [Markdown](markdown.md)
 

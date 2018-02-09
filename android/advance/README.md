@@ -3,10 +3,10 @@
 
 
 ## 目录
-* [图片处理](android/advance/picture.md)
-* [图表应用](android/advance/chat.md)
-* [分享实现](android/advance/share.md)
-* [JNI与NDK](android/advance/jni.md)
-* [热修复、热更新](android/advance/hotfix.md)
-* [插件化](android/advance/pluggable.md)
-* [源码分析](android/advance/source-code.md)
+* [图片处理](picture.md)
+* [图表应用](chat.md)
+* [分享实现](share.md)
+* [JNI与NDK](jni.md)
+* [热修复、热更新](hotfix.md)
+* [插件化](pluggable.md)
+* [源码分析](source-code.md)

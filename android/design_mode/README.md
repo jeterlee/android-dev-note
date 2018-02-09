@@ -3,9 +3,12 @@
 
 
 ## 目录
-* [MVP](android/design_mode/mvp.md)
-* [MVVM](android/design_mode/mvvm.md)
-* [AAC](android/design_mode/aac.md)
+* [MVP](mvp.md)
+* [MVVM](mvvm.md)
+* [AAC](aac.md)
+
+
+---
 
 
 ## 参考资料

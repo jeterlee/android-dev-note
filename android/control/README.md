@@ -3,6 +3,6 @@
 
 
 ## 目录
-* [系统控件](android/control/system_control/README.md)
-* [自定义控件](android/control/custom_control.md)
-* [其他](android/control/others.md)
+* [系统控件](system_control/README.md)
+* [自定义控件](custom_control.md)
+* [其他](others.md)

@@ -3,7 +3,7 @@
 
 
 ## 目录
-* [贝塞尔曲线](android/data_algorithm/bezier.md)
-* [二叉树](android/data_algorithm/binary-tree.md)
+* [贝塞尔曲线](bezier.md)
+* [二叉树](binary-tree.md)
 
 

@@ -3,9 +3,9 @@
 
 
 ## 目录
-- [基础篇](java/basis.md)
-- [提高篇](java/basis.md)
-- [其他](java/others.md)
+- [基础篇](basis.md)
+- [提高篇](advance.md)
+- [其他](others.md)
 
 
 ## 资料参考
