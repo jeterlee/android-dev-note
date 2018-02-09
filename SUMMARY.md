@@ -6,136 +6,144 @@
 
 ## Java基础与进阶
 
-* [前言](document/chapter0.md)
-* [Java基础](document/chapter0/basis.md)
-* [Java进阶](document/chapter0/advance.md)
-* [其他](document/chapter0/others.md)
+* [前言](java/README.md)
+* [Java基础](java/basis.md)
+* [Java进阶](java/advance.md)
+* [其他](java/others.md)
+
+## Kotlin
+
+* [前言](kotlin/README.md)
 
 ## Android基礎
 
-* [前言](document/chapter1.md)
-* [常用工具](document/chapter1/often-tools.md)
-* [性能优化](document/chapter1/optimization.md)
-* [内存泄露](document/chapter1/memoryleak.md)
-* [代码规范](document/chapter1/standard.md)
-* [Handler与Thread](document/chapter1/handler.md)
-* [注解](document/chapter1/annotation.md)
-* [反射机制](document/chapter1/reflect.md)
-* [字体库与图标](document/chapter1/ttf.md)
-* [主题样式和标签](document/chapter1/res.md)
-* [动画详解](document/chapter1/animation.md)
-* [四大组件](document/chapter1/components.md)
-* [屏幕适配](document/chapter1/screen-adaptation.md)
-* [各版本新特性](document/chapter1/version.md)
-* [Java知识](document/chapter1/java.md)
-* [其他](document/chapter1/others.md)
+* [前言](android/basis/README.md)
+* [常用工具](android/basis/often-tools.md)
+* [性能优化](android/basis/optimization.md)
+* [内存泄露](android/basis/memoryleak.md)
+* [代码规范](android/basis/standard.md)
+* [Handler与Thread](android/basis/handler.md)
+* [注解](android/basis/annotation.md)
+* [反射机制](android/basis/reflect.md)
+* [字体库与图标](android/basis/ttf.md)
+* [主题样式和标签](android/basis/res.md)
+* [动画详解](android/basis/animation.md)
+* [四大组件](android/basis/components.md)
+* [屏幕适配](android/basis/screen-adaptation.md)
+* [各版本新特性](android/basis/version.md)
+* [Java知识](android/basis/java.md)
+* [其他](android/basis/others.md)
 
 ## Android控件
 
-* [前言](document/chapter2.md)
-* [系统控件](document/chapter2/system_control.md)
-  * [CoordinatorLayout](document/chapter2/system_control/coordinatorlayout.md)
-  * [ConstraintLayout](document/chapter2/system_control/constraintlayout.md)
-  * [RecyclerView](document/chapter2/system_control/recyclerview.md)
-  * [ImageView](document/chapter2/system_control/imageview.md)
-  * [Webview](document/chapter2/system_control/webview.md)
-* [自定义控件](document/chapter2/custom_control.md)
-* [其他](document/chapter2/others.md)
+* [前言](android/control/README.md)
+* [系统控件](android/control/system_control/README.md)
+	* [CoordinatorLayout](android/control/system_control/coordinatorlayout.md)
+	* [ConstraintLayout](android/control/system_control/constraintlayout.md)
+	* [RecyclerView](android/control/system_control/recyclerview.md)
+	* [ImageView](android/control/system_control/imageview.md)
+	* [Webview](android/control/system_control/webview.md)
+* [自定义控件](android/control/custom_control.md)
+* [其他](android/control/others.md)
 
-## Material Designer
+## Material Design
 
-* [前言](document/chapter3.md)
-* [其他](document/chapter3/others.md)
+* [前言](android/material_design/README.md)
+* [其他](android/material_design/others.md)
 
 ## Android流行技术框架
 
-* [前言](document/chapter4.md)
-* [RxJava2、RxAndroid](document/chapter4/rxjava2.md)
-* [Dagger2](document/chapter4/dagger2.md)
-* [OkHttp3](document/chapter4/okhttp3.md)
-* [Retrofit2](document/chapter4/retrofit2.md)
-* [GreenDao3、Realm](document/chapter4/greendao3.md)
-* [组件化](document/chapter4/component.md)
-* [其他](document/chapter4/others.md)
+* [前言](android/framework/README.md)
+* [RxJava2、RxAndroid](android/framework/rxjava2.md)
+* [Dagger2](android/framework/dagger2.md)
+* [OkHttp3](android/framework/okhttp3.md)
+* [Retrofit2](android/framework/retrofit2.md)
+* [GreenDao3、Realm](android/framework/greendao3.md)
+* [组件化](android/framework/component.md)
+* [其他](android/framework/others.md)
 
 ## Android设计模式
 
-* [前言](document/chapter5.md)
-* [MVP](document/chapter5/mvp.md)
-* [MVVM](document/chapter5/mvvm.md)
-* [AAC](document/chapter5/aac.md)
+* [前言](android/design_mode/README.md)
+* [MVP](android/design_mode/mvp.md)
+* [MVVM](android/design_mode/mvvm.md)
+* [AAC](android/design_mode/aac.md)
 
 ## Android项目
 
-* [前言](document/chapter6.md)
+* [前言](android/project/README.md)
 
 ## Android开源
 
-* [前言](document/chapter7.md)
-* [开源项目](document/chapter7/or-project.md)
-* [开源库](document/chapter7/or-lib.md)
-* [开源Github](document/chapter7/or-github.md)
-* [知名应用开源库使用](document/chapter7/or-app.md)
-* [开源库的发布](document/chapter7/or-project-publish.md)
-* [开源协议](document/chapter7/or-protocol.md)
-* [其他](document/chapter7/others.md)
+* [前言](android/open_source/README.md)
+* [开源项目](android/open_source/os-project.md)
+* [开源库](android/open_source/os-lib.md)
+* [开源Github](android/open_source/os-github.md)
+* [知名应用开源库使用](android/open_source/os-app.md)
+* [开源库的发布](android/open_source/os-project-publish.md)
+* [开源协议](android/open_source/os-protocol.md)
+* [其他](android/open_source/others.md)
 
 ## Android智能家具
 
-* [前言](document/chapter8.md)
+* [前言](android/intelligent_furniture/README.md)
+
+## Android人工智能
+
+* [前言](android/artificial_intelligence/README.md)
 
 ## Android第三方服务
 
-* [前言](document/chapter9.md)
-* [第三方接口](document/chapter9/api.md)
-* [Tencent](document/chapter9/tencent.md)
-  * [Bugly](document/chapter9/tencent/bugly.md)
-  * [X5Webview](document/chapter9/tencent/x5webview.md)
-* [极光服务](document/chapter9/jiguang.md)
-* [聚合数据](document/chapter9/juhe.md)
-* [支付服务](document/chapter9/pay.md)
+* [前言](android/third-party_service/README.md)
+* [第三方接口](android/third-party_service/api.md)
+* [Tencent](android/third-party_service/tencent/README.md)
+	* [Bugly](android/third-party_service/tencent/bugly.md)
+	* [X5Webview](android/third-party_service/tencent/x5webview.md)
+* [极光服务](android/third-party_service/jiguang.md)
+* [聚合数据](android/third-party_service/juhe.md)
+* [支付服务](android/third-party_service/pay.md)
 
 ## AndroidStudio
 
-* [前言](document/chapter10.md)
-* [Gradle与Groovy](document/chapter10/gradle.md)
-* [Intellij Idea快捷键](document/chapter10/shortcuts.md)
-* [多渠道打包](document/chapter10/packchannel.md)
-* [混淆配置](document/chapter10/proguard.md)
+* [前言](android/android_studio/README.md)
+* [Gradle与Groovy](android/android_studio/gradle.md)
+* [Intellij Idea快捷键](android/android_studio/shortcuts.md)
+* [多渠道打包](android/android_studio/packchannel.md)
+* [混淆配置](android/android_studio/proguard.md)
 
 ## Android进阶
 
-* [前言](document/chapter11.md)
-* [图片处理](document/chapter11/picture.md)
-* [图表应用](document/chapter11/chat.md)
-* [分享实现](document/chapter11/share.md)
-* [JNI与NDK](document/chapter11/jni.md)
-* [热修复、热更新](document/chapter11/hotfix.md)
-* [插件化](document/chapter11/pluggable.md)
-* [源码分析](document/chapter11/source-code.md)
+* [前言](android/advance/README.md)
+* [图片处理](android/advance/picture.md)
+* [图表应用](android/advance/chat.md)
+* [分享实现](android/advance/share.md)
+* [JNI与NDK](android/advance/jni.md)
+* [热修复、热更新](android/advance/hotfix.md)
+* [插件化](android/advance/pluggable.md)
+* [源码分析](android/advance/source-code.md)
 
 ## Android数据算法
 
-* [前言](document/chapter12.md)
-* [贝塞尔曲线](document/chapter12/bezier.md)
-* [二叉树](document/chapter12/binary-tree.md)
+* [前言](android/data_algorithm/README.md)
+* [贝塞尔曲线](android/data_algorithm/bezier.md)
+* [二叉树](android/data_algorithm/binary-tree.md)
 
 ## Android总结与面试
 
-* [前言](document/chapter13.md)
-* [Android总结](document/chapter13/summary.md)
-* [Android面试](document/chapter13/interview.md)
-  * [面试大纲](document/chapter13/interview/interview-outline.md)
-* [Android简历](document/chapter13/resume.md)
+* [前言](android/summary_interview/README.md)
+* [Android总结](android/summary_interview/summary.md)
+* [Android面试](android/summary_interview/README.md)
+	* [面试大纲](android/summary_interview/interview/interview-outline.md)
+* [Android简历](android/summary_interview/resume.md)
 
 ## 优秀的论坛社区博客简书
 
-* [前言](document/chapter14.md)
+* [前言](android/blog/README.md)
 
 ## Android其他
 
-* [前言](document/chapter15.md)
-* [GitHub](document/chapter15/github.md)
-* [GitBook](document/chapter15/gitbook.md)
-* [Markdown](document/chapter15/markdown.md)
+* [前言](android/others/README.md)
+* [GitHub](android/others/github.md)
+* [GitBook](android/others/gitbook.md)
+* [Markdown](android/others/markdown.md)
 
