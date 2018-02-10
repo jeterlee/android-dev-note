@@ -35,6 +35,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 - 编辑器工具：[**IntelliJ编辑器工具教程**](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 - [**2017上半年技术文章集合—184篇文章分类汇总**](http://blog.csdn.net/androidstarjack/article/details/77923753)
 - [**Android-Best-Practices**](https://github.com/tianzhijiexian/Android-Best-Practices)
+- [**【新版】Android技术博客精华汇总**](http://www.apkbus.com/thread-313856-1-1.html)
 
 
 ## 目录结构（主要为资料链接和博客）
