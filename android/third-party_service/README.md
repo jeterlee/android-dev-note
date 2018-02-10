@@ -4,7 +4,7 @@
 
 ## 目录
 * [第三方接口](api.md)
-* [Tencent](tencent/README.md)
+* [Tencent](tencent)
 * [极光服务](jiguang.md)
 * [聚合数据](juhe.md)
 * [支付服务](pay.md)

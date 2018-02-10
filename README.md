@@ -41,10 +41,6 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ---
 
-## 前言
-
-* [前言介绍](android-dev-note)
-
 ## Java基础与进阶
 
 * [前言](java)
@@ -54,11 +50,11 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ## Kotlin
 
-* [前言](kotlin/README.md)
+* [前言](kotlin)
 
 ## Android基礎
 
-* [前言](android/basis/README.md)
+* [前言](android/basis)
 * [常用工具](android/basis/often-tools.md)
 * [性能优化](android/basis/optimization.md)
 * [内存泄露](android/basis/memoryleak.md)
@@ -76,24 +72,24 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ## Android控件
 
-* [前言](android/control/README.md)
-* [系统控件](android/control/system_control/README.md)
-	* [CoordinatorLayout](android/control/system_control/coordinatorlayout.md)
-	* [ConstraintLayout](android/control/system_control/constraintlayout.md)
-	* [RecyclerView](android/control/system_control/recyclerview.md)
-	* [ImageView](android/control/system_control/imageview.md)
-	* [Webview](android/control/system_control/webview.md)
+* [前言](android/control)
+* [系统控件](android/control/system_control)
+  * [CoordinatorLayout](android/control/system_control/coordinatorlayout.md)
+  * [ConstraintLayout](android/control/system_control/constraintlayout.md)
+  * [RecyclerView](android/control/system_control/recyclerview.md)
+  * [ImageView](android/control/system_control/imageview.md)
+  * [Webview](android/control/system_control/webview.md)
 * [自定义控件](android/control/custom_control.md)
 * [其他](android/control/others.md)
 
 ## Material Design
 
-* [前言](android/material_design/README.md)
+* [前言](android/material_design)
 * [其他](android/material_design/others.md)
 
 ## Android流行技术框架
 
-* [前言](android/framework/README.md)
+* [前言](android/framework)
 * [RxJava2、RxAndroid](android/framework/rxjava2.md)
 * [Dagger2](android/framework/dagger2.md)
 * [OkHttp3](android/framework/okhttp3.md)
@@ -104,18 +100,18 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ## Android设计模式
 
-* [前言](android/design_mode/README.md)
+* [前言](android/design_mode)
 * [MVP](android/design_mode/mvp.md)
 * [MVVM](android/design_mode/mvvm.md)
 * [AAC](android/design_mode/aac.md)
 
 ## Android项目
 
-* [前言](android/project/README.md)
+* [前言](android/project)
 
 ## Android开源
 
-* [前言](android/open_source/README.md)
+* [前言](android/open_source)
 * [开源项目](android/open_source/os-project.md)
 * [开源库](android/open_source/os-lib.md)
 * [开源Github](android/open_source/os-github.md)
@@ -126,27 +122,27 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ## Android智能家具
 
-* [前言](android/intelligent_furniture/README.md)
+* [前言](android/intelligent_furniture)
 
 ## Android人工智能
 
-* [前言](android/artificial_intelligence/README.md)
+* [前言](android/artificial_intelligence)
 * [人脸识别](android/artificial_intelligence/face_identification.md)
 
 ## Android第三方服务
 
-* [前言](android/third-party_service/README.md)
+* [前言](android/third-party_service)
 * [第三方接口](android/third-party_service/api.md)
-* [Tencent](android/third-party_service/tencent/README.md)
-	* [Bugly](android/third-party_service/tencent/bugly.md)
-	* [X5Webview](android/third-party_service/tencent/x5webview.md)
+* [Tencent](android/third-party_service/tencent)
+  * [Bugly](android/third-party_service/tencent/bugly.md)
+  * [X5Webview](android/third-party_service/tencent/x5webview.md)
 * [极光服务](android/third-party_service/jiguang.md)
 * [聚合数据](android/third-party_service/juhe.md)
 * [支付服务](android/third-party_service/pay.md)
 
 ## AndroidStudio
 
-* [前言](android/android_studio/README.md)
+* [前言](android/android_studio)
 * [Gradle与Groovy](android/android_studio/gradle.md)
 * [Intellij Idea快捷键](android/android_studio/shortcuts.md)
 * [多渠道打包](android/android_studio/packchannel.md)
@@ -154,7 +150,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ## Android进阶
 
-* [前言](android/advance/README.md)
+* [前言](android/advance)
 * [图片处理](android/advance/picture.md)
 * [图表应用](android/advance/chat.md)
 * [摄像头与扫码](android/advance/camera_scan.md)
@@ -166,27 +162,27 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ## Android数据算法
 
-* [前言](android/data_algorithm/README.md)
+* [前言](android/data_algorithm)
 * [贝塞尔曲线](android/data_algorithm/bezier.md)
 * [二叉树](android/data_algorithm/binary-tree.md)
 
 ## Android总结与面试
 
-* [前言](android/summary_interview/README.md)
+* [前言](android/summary_interview)
 * [Android简历](android/summary_interview/resume.md)
 * [Android总结](android/summary_interview/summary.md)
 * [Java面试](android/summary_interview/java_interview.md)
-* [Android面试](android/summary_interview/android_interview/README.md)
+* [Android面试](android/summary_interview/android_interview)
   * [BAT面试大纲](android/summary_interview/android_interview/interview-outline.md)
   * [一天一题](android/summary_interview/android_interview/eday-equestion.md)
 
 ## 优秀的论坛社区博客简书
 
-* [前言](android/blog/README.md)
+* [前言](android/blog)
 
 ## Android其他
 
-* [前言](android/others/README.md)
+* [前言](android/others)
 * [GitHub](android/others/github.md)
 * [GitBook](android/others/gitbook.md)
 * [Markdown](android/others/markdown.md)

@@ -2,11 +2,11 @@
 
 ## 前言
 
-* [前言介绍](/)
+* [前言介绍](README.md)
 
 ## Java基础与进阶
 
-* [前言](java)
+* [前言](java/README.md)
 * [Java基础](java/basis.md)
 * [Java进阶](java/advance.md)
 * [其他](java/others.md)
