@@ -43,7 +43,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ## 前言
 
-* [前言介绍](/)
+* [前言介绍](android-dev-note)
 
 ## Java基础与进阶
 
