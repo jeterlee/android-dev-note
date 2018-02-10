@@ -47,7 +47,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 ## Java基础与进阶
 
-* [前言](java/README.md)
+* [前言](java)
 * [Java基础](java/basis.md)
 * [Java进阶](java/advance.md)
 * [其他](java/others.md)
