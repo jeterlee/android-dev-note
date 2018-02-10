@@ -3,9 +3,9 @@
 
 
 ## 目录
+* [Android简历](resume.md)
 * [Android总结](summary.md)
 * [Android面试](interview/README.md)
-* [Android简历](resume.md)
 
 
 #### 职场中，给你几条建议可好（重点推荐）
