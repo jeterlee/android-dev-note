@@ -24,3 +24,7 @@
 - [Android中windowTranslucentStatus与windowTranslucentNavigation的一些设置](http://blog.csdn.net/zjt593688/article/details/52606980)
 - [layer-list -- layer-list的基本使用介绍](http://blog.csdn.net/north1989/article/details/53485729)
 - [android:configChanges属性总结](http://www.cnblogs.com/wanqieddy/p/5172120.html)
+- [android:windowContentOverlay作用](http://blog.csdn.net/hqiong208/article/details/50295647)
+- [** android:windowSoftInputMode属性详解**](http://blog.csdn.net/CL18652469346/article/details/53927204)
+- [ Android - 闪页屏幕出现短暂的黑白屏,如何解决?android:windowContentOverlay](http://blog.csdn.net/cl18652469346/article/details/53927422)
+- [android:uiOptions="splitActionBarWhenNarrow" 的作用](http://blog.csdn.net/linger50/article/details/24354171)
