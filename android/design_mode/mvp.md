@@ -10,3 +10,4 @@
 
 
 ### MVP Clean
+- [使用Clean架构开发Android应用详细指南](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3979.html)

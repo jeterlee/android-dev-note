@@ -14,6 +14,7 @@
 
 ### 3、资源详解
 - [Android xml资源文件中@、@android:type、@*、？、@+含义和区别](https://www.cnblogs.com/kobe8/p/3755089.html)
+- [Android入门——Drawable及对应的资源xml和.9 Patch图片的应用](http://blog.csdn.net/crazymo_/article/details/48941781)
 
 
 ### 4、标签详解
@@ -28,3 +29,4 @@
 - [** android:windowSoftInputMode属性详解**](http://blog.csdn.net/CL18652469346/article/details/53927204)
 - [ Android - 闪页屏幕出现短暂的黑白屏,如何解决?android:windowContentOverlay](http://blog.csdn.net/cl18652469346/article/details/53927422)
 - [android:uiOptions="splitActionBarWhenNarrow" 的作用](http://blog.csdn.net/linger50/article/details/24354171)
+- []()
