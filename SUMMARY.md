@@ -25,6 +25,7 @@
 * [Handler与Thread](android/basis/handler.md)
 * [注解](android/basis/annotation.md)
 * [反射机制](android/basis/reflect.md)
+* [序列化](android/basis/serialization.md)
 * [字体库与图标](android/basis/ttf.md)
 * [主题样式和标签](android/basis/res.md)
 * [动画详解](android/basis/animation.md)

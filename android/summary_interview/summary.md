@@ -1,4 +1,6 @@
 ## Android总结
+- [创建安卓app的30个经验教训](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3978.html)
+- [按功能划分Package，而不是按层](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3980.html)
 
 
 ### 17年总结

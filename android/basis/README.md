@@ -10,6 +10,7 @@
 * [Handler与Thread](handler.md)
 * [注解](annotation.md)
 * [反射机制](reflect.md)
+* [序列化](serialization.md)
 * [字体库与图标](ttf.md)
 * [主题样式和标签](res.md)
 * [动画详解](animation.md)
