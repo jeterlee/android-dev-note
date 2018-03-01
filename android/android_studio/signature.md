@@ -1,4 +1,11 @@
-## 多渠道打包
+## 打包签名
+
+
+### 签名
+- [3个知识点让你了解Android签名机制](http://www.apkbus.com/blog-942559-76948.html)
+
+
+### 多渠道打包签名
 - [［Android Studio 权威教程］多渠道打包和一键完成（全部产品）打包并签名](http://blog.csdn.net/yy1300326388/article/details/48296221)
 - [productFlavors的简单分析（一）](http://www.jianshu.com/p/9e646683fb40)
 - [Gradle打包APK的一些小技巧和productFlavor配置](https://my.oschina.net/sfshine/blog/725365)

@@ -36,6 +36,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 - [**2017上半年技术文章集合—184篇文章分类汇总**](http://blog.csdn.net/androidstarjack/article/details/77923753)
 - [**Android-Best-Practices**](https://github.com/tianzhijiexian/Android-Best-Practices)
 - [**【新版】Android技术博客精华汇总**](http://www.apkbus.com/thread-313856-1-1.html)
+- [**本人多年珍藏的Android开发必备网站和工具**](http://www.apkbus.com/blog-944603-77135.html)
 
 
 ## 目录结构（主要为资料链接和博客）
@@ -141,13 +142,14 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 * [极光服务](android/third-party_service/jiguang.md)
 * [聚合数据](android/third-party_service/juhe.md)
 * [支付服务](android/third-party_service/pay.md)
+* [地图定位服务](android/third-party_service/map_location.md)
 
 ## AndroidStudio
 
 * [前言](android/android_studio)
 * [Gradle与Groovy](android/android_studio/gradle.md)
 * [Intellij Idea快捷键](android/android_studio/shortcuts.md)
-* [多渠道打包](android/android_studio/packchannel.md)
+* [打包签名](android/android_studio/signature.md)
 * [混淆配置](android/android_studio/proguard.md)
 
 ## Android进阶

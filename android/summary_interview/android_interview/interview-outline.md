@@ -1,4 +1,6 @@
 ## 面试大纲（重点推荐）
+- [Android大厂面试题锦集(BAT TMD JD 小米)](http://www.apkbus.com/blog-689174-77010.html)
+
 
 ### 阿里巴巴
 - 图片加载原理

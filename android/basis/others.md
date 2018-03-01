@@ -22,5 +22,6 @@
 - [Android Studio Set of source 代码源集](https://www.jianshu.com/p/a8870dccda1f)
 - [Android Studio BuildType 构建类型](https://www.jianshu.com/p/a0e8f1c756ed)
 - [Android 日志记录杂谈-Logger,Timber,logback-android](https://www.jianshu.com/p/39834be3cb6c)
+- [老司机带你轻松入门架构师----如何重构Android的v4包的部分源码](http://www.apkbus.com/blog-944603-77091.html)
 
 

@@ -103,13 +103,14 @@
 * [极光服务](android/third-party_service/jiguang.md)
 * [聚合数据](android/third-party_service/juhe.md)
 * [支付服务](android/third-party_service/pay.md)
+* [地图定位服务](android/third-party_service/map_location.md)
 
 ## AndroidStudio
 
 * [前言](android/android_studio/README.md)
 * [Gradle与Groovy](android/android_studio/gradle.md)
 * [Intellij Idea快捷键](android/android_studio/shortcuts.md)
-* [多渠道打包](android/android_studio/packchannel.md)
+* [打包签名](android/android_studio/signature.md)
 * [混淆配置](android/android_studio/proguard.md)
 
 ## Android进阶

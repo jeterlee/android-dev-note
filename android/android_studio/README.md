@@ -5,7 +5,7 @@
 ## 目录
 * [Gradle与Groovy](gradle.md)
 * [Intellij Idea快捷键](shortcuts.md)
-* [多渠道打包](packchannel.md)
+* [打包签名](signature.md)
 * [混淆配置](proguard.md)
 
 

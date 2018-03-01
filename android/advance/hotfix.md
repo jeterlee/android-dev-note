@@ -4,3 +4,4 @@
 
 ### 1、Tinker
 - [热修复——Tinker的集成与使用](https://juejin.im/post/5a27bdaf6fb9a044fa19bcfc)
+- [Tinker热更新与AndResGuard资源混淆的结合](http://www.apkbus.com/blog-917385-76922.html)
