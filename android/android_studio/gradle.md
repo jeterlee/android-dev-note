@@ -5,6 +5,9 @@
 - [Gradle的Properties](http://blog.csdn.net/eastlhu/article/details/50206287)
 - [com.android.support冲突的解决办法](http://blog.csdn.net/yuzhiqiang_1993/article/details/78214812)
 - [Android Studio 3.0及Gradle Plugin 3.0升级注意事项](http://blog.csdn.net/codezjx/article/details/78627403)
+- [Gradle 打包](https://www.jianshu.com/p/898789d340e6)
+- [Gradle Task的使用](http://blog.csdn.net/a_ycmbc/article/details/53997067)
+- [Gradle Task的使用](https://www.jianshu.com/p/cd1a78dc8346)
 
 
 ### 重点推荐
