@@ -123,9 +123,9 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 * [开源协议](android/open_source/os-protocol.md)
 * [其他](android/open_source/others.md)
 
-## Android智能家具
+## Android智慧生活
 
-* [前言](android/intelligent_furniture)
+* [前言](android/intelligent_live)
 
 ## Android人工智能
 
@@ -169,6 +169,10 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 * [前言](android/data_algorithm)
 * [贝塞尔曲线](android/data_algorithm/bezier.md)
 * [二叉树](android/data_algorithm/binary-tree.md)
+
+## Google Developers
+
+* [前言](android/google_developers)
 
 ## Android总结与面试
 
