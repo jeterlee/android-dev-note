@@ -29,4 +29,5 @@
 - [** android:windowSoftInputMode属性详解**](http://blog.csdn.net/CL18652469346/article/details/53927204)
 - [ Android - 闪页屏幕出现短暂的黑白屏,如何解决?android:windowContentOverlay](http://blog.csdn.net/cl18652469346/article/details/53927422)
 - [android:uiOptions="splitActionBarWhenNarrow" 的作用](http://blog.csdn.net/linger50/article/details/24354171)
-- []()
+- [**AndroidStudio出现tools:replace="android:icon"问题**](http://blog.csdn.net/u014112893/article/details/52636348)
+- [AndroidStudio出现tools:replace="android:theme"问题](http://blog.csdn.net/qiaojianqiang/article/details/60959622)
