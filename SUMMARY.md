@@ -15,6 +15,10 @@
 
 * [前言](kotlin/README.md)
 
+## Python
+
+* [前言](python/README.md)
+
 ## Android基礎
 
 * [前言](android/basis/README.md)

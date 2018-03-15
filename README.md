@@ -54,6 +54,9 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 
 * [前言](kotlin)
 
+## Python
+* [前言](python)
+
 ## Android基礎
 
 * [前言](android/basis)
