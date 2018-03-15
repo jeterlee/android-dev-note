@@ -200,6 +200,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
 * [GitHub](android/others/github.md)
 * [GitBook](android/others/gitbook.md)
 * [Markdown](android/others/markdown.md)
+* [UML](android/others/uml.md)
 
 ---
 
