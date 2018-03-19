@@ -7,6 +7,7 @@
 * [Tencent](tencent)
 * [极光服务](jiguang.md)
 * [聚合数据](juhe.md)
+* [Mob](mob.md)
 * [支付服务](pay.md)
 * [地图定位服务](map_location.md)
 

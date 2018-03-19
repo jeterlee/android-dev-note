@@ -144,6 +144,7 @@ msi-SmartFactory|[https://github.com/jeterlee/msi-SmartFactory](https://github.c
   * [X5Webview](android/third-party_service/tencent/x5webview.md)
 * [极光服务](android/third-party_service/jiguang.md)
 * [聚合数据](android/third-party_service/juhe.md)
+* [Mob](android/third-party_service/mob.md)
 * [支付服务](android/third-party_service/pay.md)
 * [地图定位服务](android/third-party_service/map_location.md)
 
