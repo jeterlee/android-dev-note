@@ -4,7 +4,7 @@
 ### 持续更新中...
 
 
-## 附加gitbook快速阅读地址（准备给gitbook增加主题 -- 待定更新）
+### 附加gitbook快速阅读地址（准备给gitbook增加主题 -- 待定更新）
 [https://jeterleebook.gitbooks.io/android-dev-note/content/](https://jeterleebook.gitbooks.io/android-dev-note/content/)
 
 ### Android源码查看：[http://androidxref.com/](http://androidxref.com/)
