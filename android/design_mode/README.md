@@ -62,3 +62,7 @@
 #### 系列：5、责任链模式
 - [责任链模式的7种不同实现](http://blog.csdn.net/liuwenzhe2008/article/details/70199520)
 
+
+#### 系列：6、代理模式
+- [Android的开发之&java23中设计模式------>代理模式](https://blog.csdn.net/jie1123161402/article/details/78534659)
+

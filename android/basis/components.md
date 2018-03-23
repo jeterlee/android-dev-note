@@ -53,6 +53,8 @@ Bundle是可以对对象进行操作的，而Intent不可以。Bundle相对于In
 
 
 ### Service
+- [关于Android Service真正的完全详解，你需要知道的一切](https://blog.csdn.net/javazejian/article/details/52709857)
+- [IntentService源码解析](http://dajipai.cc/archives/9e86a7ad.html)
 
 
 ### ContentProvider
