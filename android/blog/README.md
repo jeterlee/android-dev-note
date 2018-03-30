@@ -51,6 +51,7 @@
 - [**Android 架构师之路 目录 --- 涉及JNI和设计模式**](https://www.jianshu.com/p/40a4b195a12a)
 - [**zejian的博客 --- 重点推荐（基础知识涉及原理）**](https://my.csdn.net/javazejian)
 - [**欢迎进入Hensen_的博客目录（全站式导航）--- 推荐博客（Android基础知识）**](http://blog.csdn.net/qq_30379689/article/details/52637226)
+- [**HollisChuang's Blog --- 推荐博客（Java基础知识） **](http://www.hollischuang.com/)
 
 
 #### 4、简书
