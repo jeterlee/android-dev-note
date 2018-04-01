@@ -2,13 +2,11 @@
 
 **项目说明：Android开发笔记，常用框架，问题收集，优秀的文章分享。（主要针对原生代码开发，Web移动端开发移步：**[**web-dev-note**](https://github.com/jeterlee/web-dev-note)**）**
 
-### 持续更新中...
+#### 持续更新中...
 
-### 附加gitbook快速阅读地址（准备给gitbook增加主题 -- 待定更新）
+#### Gitbook地址：[https://jeterleebook.gitbooks.io/android-dev-note/content/](https://jeterleebook.gitbooks.io/android-dev-note/content/)
 
-[https://jeterleebook.gitbooks.io/android-dev-note/content/](https://jeterleebook.gitbooks.io/android-dev-note/content/)
-
-### Android源码查看：[http://androidxref.com/libcore](http://androidxref.com/libcore)
+#### Android源码查看：[http://androidxref.com/libcore](http://androidxref.com/libcore)
 
 ## 目录结构（主要为资料链接和博客）
 
@@ -180,26 +178,7 @@
 
 ---
 
-## 模块链接
 
-| Name | Reposity | Remark |
-| :---: | :---: | :---: |
-|  | Kotlin（开发笔记） | [https://github.com/jeterlee/kotlin-dev-note](https://github.com/jeterlee/kotlin-dev-note) |
-|  | Gradle（groovy语法） | [https://github.com/jeterlee/gradle-dev-note](https://github.com/jeterlee/gradle-dev-note) |
-|  | RxBucket（Rx全家桶） | [https://github.com/jeterlee/RxBucket](https://github.com/jeterlee/RxBucket) |
-|  | HotFixFamily（热修复家族） | [https://github.com/jeterlee/HotFixFamily](https://github.com/jeterlee/HotFixFamily) |
-|  | Network request framework（网络请求框架） | [https://github.com/jeterlee/network-request-framework](https://github.com/jeterlee/network-request-framework) |
-|  | Load picture framework（图片加载框架） | [https://github.com/jeterlee/load-picture-framework](https://github.com/jeterlee/load-picture-framework) |
-|  | Database（数据库的学习使用） | [https://github.com/jeterlee/database-framework](https://github.com/jeterlee/database-framework) |
-| Android性能优化 |  | 待定中。。。 |
-|  | 面试（Android、前端、Java） | [https://github.com/jeterlee/awesome-interview](https://github.com/jeterlee/awesome-interview) |
-
-## 项目链接
-
-| Name | Project | Remark |
-| :---: | :---: | :---: |
-| zscan | [https://github.com/jeterlee/zscan](https://github.com/jeterlee/zscan) | 正在验证中。。。 |
-| msi-SmartFactory | [https://github.com/jeterlee/msi-SmartFactory](https://github.com/jeterlee/msi-SmartFactory) | 打算重构。。。 |
 
 ## 资料参考
 
