@@ -3,8 +3,8 @@
 
 
 ## 目录
-- [基础篇](basis.md)
-- [提高篇](advance.md)
+- [基础篇](basis)
+- [提高篇](advance)
 - [其他](others.md)
 
 

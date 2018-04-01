@@ -7,8 +7,12 @@
 ## Java基础与进阶
 
 * [前言](java/README.md)
-* [Java基础](java/basis.md)
-* [Java进阶](java/advance.md)
+* [Java基础](java/basis/README.md)
+* [Java进阶](java/advance/README.md)
+  * [设计模式](java/advance/design_patterns.md)
+  * [JVM](java/advance/jvm.md)
+  * [并发基础](java/advance/concurrent.md)
+  * [函数式编程（Java新特性）](java/advance/functional_programming.md)
 * [其他](java/others.md)
 
 ## Kotlin

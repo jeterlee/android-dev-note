@@ -1,6 +1,4 @@
-## Java基础
-- [谈谈多态](http://www.cnblogs.com/xrq730/p/4820237.html)
-
+## 并发基础
 
 ### volatile、synchronized、lock、reentrantLock（原理 - 面试的高发区）
 - [**Java 并发基础学习**](http://blog.csdn.net/qq_17250009/article/details/79012528)
@@ -13,5 +11,3 @@
 - [Java死磕多线程（volatile）](https://www.jianshu.com/p/f81fafc5c7ec)
 
 
-### ThreadLocal
-- [Java ThreadLocal 类的知识点解读](http://yifeng.studio/2017/10/10/java-threadlocal-class/)

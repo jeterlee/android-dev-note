@@ -38,13 +38,12 @@
 - [伯努力不努力](http://my.csdn.net/u012124438)
 - [Corn](http://www.cnblogs.com/lwbqqyumidi/)
 - [code_xzh](http://blog.csdn.net/xiangzhihong8)
-
 - [**_刘某人程序员_**](http://my.csdn.net/qq_26787115)
 - [**亦枫**](http://yifeng.studio/)
 - [**吴佳峻**](http://blog.csdn.net/wu928320442)
 - [Mirs_sir](http://my.csdn.net/a109340)
 - [jk's Blog](http://blog.zhangjikai.com/)
-- [〤twinkle╰ つ青春](http://blog.csdn.net/jie1123161402/article/list/2)
+
 
 
 ### 重点推荐
@@ -54,7 +53,7 @@
 - [**伯努力不努力 --- 推荐博客（Android基础知识）**](https://my.csdn.net/u012124438)
 - [Carson_Ho的博客](http://blog.csdn.net/carson_ho)
 - [**HollisChuang's Blog --- 推荐博客（Java基础知识） **](http://www.hollischuang.com/)
-
+- [〤twinkle╰ つ青春](http://blog.csdn.net/jie1123161402/article/list/2)
 
 
 #### 4、简书
