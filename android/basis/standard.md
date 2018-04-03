@@ -6,3 +6,4 @@
 - [Android开发规范（updating）](http://www.jianshu.com/p/419f5357357d)
 - [Android开发架构规范](http://www.jianshu.com/p/99239b9c1630)
 - [android studio 学习笔记之 注释规范化](http://blog.csdn.net/qq_22063697/article/details/51344966)
+- [**android 开发 命名规范**](https://www.cnblogs.com/ycxyyzw/p/4103284.html)
