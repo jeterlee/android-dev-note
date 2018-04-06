@@ -17,4 +17,5 @@
 * [四大组件](components.md)
 * [屏幕适配](screen-adaptation.md)
 * [各版本新特性](version.md)
+* [Android问题集锦](issues.md)
 * [其他](others.md)
