@@ -6,3 +6,7 @@
 
 - [Android开发之从零开始系列汇总](https://juejin.im/post/5a31de96f265da432241355c)
 - [探究Android View 绘制流程，Canvas 的由来](http://www.apkbus.com/blog-944555-76863.html)
+
+
+#### 自定义组件
+- [一个绚丽的loading动效分析与实现！](https://blog.csdn.net/tianjian4592/article/details/44538605)
