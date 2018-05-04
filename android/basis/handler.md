@@ -32,4 +32,10 @@ SurfaceView ：多媒体视频播放 ,可以在子线程中更新UI； Progress�
 - [JAVA多线程实现和应用总结](http://www.cnblogs.com/yezhenhan/archive/2010/01/09/2317636.html)
 
 
+### 
+- [Android进程保活的一般套路](https://blog.csdn.net/u013263323/article/details/56285475)
+- [Android进程保活总结](https://blog.csdn.net/superxlcr/article/details/70244803?ref=myread)
+- [探讨Android6.0及以上系统APP常驻内存(保活)实现-争宠篇](https://blog.csdn.net/AndrExpert/article/details/75045678)
+- [关于 Android 进程保活，你所需要知道的一切](https://www.jianshu.com/p/63aafe3c12af)
+- [深入理解 Android 消息机制](https://www.ctolib.com/topics-131372.html)
 
