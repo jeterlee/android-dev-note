@@ -3,13 +3,13 @@
 
 
 ### 1、Handler机制（重点推荐）
-- [Android的Handler消息机制详解](http://www.jianshu.com/p/c21a15aec3b1)
 - [[图解法结合源码]理解、记忆Handler、Looper、MessageQueue之间的关系](http://blog.csdn.net/Shenpibaipao/article/details/70214927)
 - [手把手带你从源码的角度全面理解Handler、Looper、MessageQueue之间的关系](http://blog.csdn.net/yang_song_song/article/details/76212532)
 - [Android开发：Handler异步通信机制全面解析（包含Looper、Message Queue）](https://blog.csdn.net/carson_ho/article/details/51290360)
-- [Android 异步通信：图文详解Handler机制工作原理](https://blog.csdn.net/carson_ho/article/details/80175876)
-- [Android多线程：一步步带你源码解析HandlerThread](https://blog.csdn.net/carson_ho/article/details/52693418)
-- [Android开发：详解Handler的内存泄露](https://blog.csdn.net/carson_ho/article/details/52693211)
+- [Android的Handler消息机制详解](http://www.jianshu.com/p/c21a15aec3b1)
+- [Android多线程：这是一份详细的HandlerThread源码分析攻略](https://www.jianshu.com/p/4a8dc2f50ae6)
+- [Android Handler：手把手带你深入分析 Handler机制源码](https://www.jianshu.com/p/b4d745c7ff7a)
+- [Android 内存泄露：详解 Handler 内存泄露的原因](https://www.jianshu.com/p/ed9e15eff47a)
 
 > 说明：
 >
