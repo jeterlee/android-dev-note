@@ -45,7 +45,6 @@
 - [jk's Blog](http://blog.zhangjikai.com/)
 
 
-
 ### 重点推荐
 - [**Carson_Ho的博客（专注分享 Android开发 干货）**](http://blog.csdn.net/carson_ho)
 - [**Android 架构师之路 目录 --- 涉及JNI和设计模式**](https://www.jianshu.com/p/40a4b195a12a)
@@ -67,3 +66,8 @@
 - [青蛙要fly](http://www.jianshu.com/u/5aad180d1ea8)
 - [**Android那些事儿**](https://www.jianshu.com/u/8fc5734c6857)
 - [Tsy远](https://www.jianshu.com/u/21716b19302d)
+
+
+### 重点推荐
+
+- [Carson_Ho](https://www.jianshu.com/u/383970bef0a0)
