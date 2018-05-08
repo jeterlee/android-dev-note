@@ -13,3 +13,8 @@
 ### 注释
 - [javadoc 和 javadoc注释规范](https://www.cnblogs.com/felix-/p/4310229.html)
 - [详细聊聊Javadoc注释规范](http://blog.csdn.net/garfielder007/article/details/54959597)
+
+
+### 分隔符
+- [Java中的File.pathSeparator](http://yukaizhao.iteye.com/blog/1541670)
+- [java.io.File 中的Separator和PathSeparator的区别  ](http://blog.163.com/hwj_monkey/blog/static/23846004520147125826158/)
