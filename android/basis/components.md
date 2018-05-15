@@ -15,6 +15,7 @@ Application中在onCreate()方法里去初始化各种全局的变量数据是�
 
 
 ### Activity
+- [【Transition】Android炫酷的Activity切换效果，共享元素](https://www.jianshu.com/p/a43daa1e3d6e)
 
 ##### 1、Activity生命周期
 - [细谈Activity生命周期](http://blog.csdn.net/tounaobun/article/details/8147119)
