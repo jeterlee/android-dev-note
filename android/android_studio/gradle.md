@@ -8,6 +8,8 @@
 - [Gradle 打包](https://www.jianshu.com/p/898789d340e6)
 - [Gradle Task的使用](http://blog.csdn.net/a_ycmbc/article/details/53997067)
 - [Gradle Task的使用](https://www.jianshu.com/p/cd1a78dc8346)
+- [**写给 Android 开发者的 Gradle 系列（一）基本姿势**](https://juejin.im/post/5af4f117f265da0b9f405221)
+- [**写给 Android 开发者的 Gradle 系列（二）撰写 task**](https://juejin.im/post/5afa06466fb9a07aaa1163f1)
 
 
 ### 重点推荐
