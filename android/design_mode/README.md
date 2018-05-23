@@ -66,3 +66,23 @@
 #### 系列：6、代理模式
 - [Android的开发之&java23中设计模式------>代理模式](https://blog.csdn.net/jie1123161402/article/details/78534659)
 
+
+#### 系列：7、设计架构
+- [Android APP架构心得](https://www.jianshu.com/p/2d5c1d855c31)
+- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
+- [瞎谈干净架构（clean architecture）](https://blog.csdn.net/yangTal09/article/details/52974313)
+- [Android MVP + Clean Architecture 深入浅出(译、学习)](https://www.jianshu.com/p/e8e81a8f08b1)
+- [开篇介绍和工程目录结构【从零开始搭建android框架系列（1）】](https://www.jianshu.com/p/d0fee882a0fe)
+- [不容错过，最全的安卓架构合集【从零开始搭建android框架系列（2）】](https://www.jianshu.com/p/1f21e1d375aa)
+- [Google官方架构MVP解析与实战【从零开始搭建android框架系列（3）】](https://www.jianshu.com/p/569ab68da482)
+- [网络图片加载的封装【从零开始搭建android框架系列（4）】](https://www.jianshu.com/p/e26130a93289)
+- [谈谈WebView的使用【从零开始搭建android框架系列（5）】](https://www.jianshu.com/p/e3965d3636e7)
+- [Google官方MVP+Dagger2架构详解【从零开始搭建android框架系列（6）】](https://www.jianshu.com/p/01d3c014b0b1)
+- [浅析MVP中model层设计【从零开始搭建android框架系列（7）】](https://www.jianshu.com/p/d299153ff853)
+- [AAC(Android Architecture Components)](https://blog.csdn.net/user11223344abc/article/details/79364274)
+- [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](https://www.ctolib.com/topics-117156.html)
+- [RxFlux](https://github.com/skimarxall/RxFlux)
+- [AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
+- [Android项目架构1 - TODO-MVP（译）](https://www.jianshu.com/p/15c63d1758cc)
+- [Android项目架构2 - Clean Architecture](https://www.jianshu.com/p/e17c351c87b6)
+- [TODO-MVP 深入浅出](https://www.jianshu.com/p/bbbff64486e5)
