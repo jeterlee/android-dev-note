@@ -26,4 +26,7 @@
 - [Android 屏幕刷新机制](https://www.jianshu.com/p/0d00cb85fdf3)
 - [Android开发利器 - Charles + Genymotion 调试网络应用程序](https://www.cnblogs.com/davidgu/p/6071373.html)
 
-
+- [Android 性能优化 - 彻底解决内存抖动](https://blog.csdn.net/wanghao200906/article/details/79311288)
+- [Android 性能优化 - 彻底解决内存泄漏](https://blog.csdn.net/wanghao200906/article/details/79305126)
+- [MVC，MVP 和 MVVM 模式如何选择？](https://www.jianshu.com/p/971476a85731)
+- [Android应用开发性能优化完全分析](http://www.androidchina.net/8810.html)
