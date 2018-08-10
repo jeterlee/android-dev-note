@@ -1,12 +1,10 @@
 ## AndroidDevNote
-**项目说明：`Android`开发笔记，常用框架，问题收集，优秀的文章分享。**
-
-#### 持续更新中...
+**项目说明：`Android`开发笔记，常用框架，问题收集，优秀的文章分享。（持续更新中。。。）**
 
 
 ## Note
 Chapter|Description
-:-----:|:---------:
+:-----:|:---------
 [Java知识](https://github.com/jeterlee/java-dev-note)|`Java`学习笔记，主要包含`JDK6`、`JDK7`、`JDK8`、`JDK9`、`JDK10`的学习知识点。
 [Kotlin知识](https://github.com/jeterlee/kotlin-dev-note)|`Kotlin`学习笔记，主要包含 `Kotlin` 的所有知识。
 [Python知识](https://github.com/jeterlee/python-dev-note)|`Python`学习笔记。
@@ -32,8 +30,7 @@ Chapter|Description
     * [屏幕适配](basis/screen-adaptation.md)
     * [各版本新特性](basis/version.md)
     * [Android问题集锦](basis/issues.md)
-    * [其他](basis/others.md)
-    
+    * [其他](basis/others.md) 
 - Android控件
     * 系统控件
       * [CoordinatorLayout](control/system_control/coordinatorlayout.md)
@@ -42,11 +39,9 @@ Chapter|Description
       * [ImageView](control/system_control/imageview.md)
       * [Webview](control/system_control/webview.md)
     * [自定义控件](control/custom-control.md)
-    * [其他](control/others.md)
-    
+    * [其他](control/others.md)  
 - [Material Design](materialdesign/material-design.md)
     * [其他](materialdesign/others.md)
-    
 - [Android流行技术框架](framework/framework.md)
     * [RxJava2、RxAndroid](framework/rxjava2.md)
     * [Dagger2](framework/dagger2.md)
@@ -55,12 +50,10 @@ Chapter|Description
     * [GreenDao3、Realm](framework/database.md)
     * [组件化](framework/component.md)
     * [其他](framework/others.md)
-
 - [Android设计模式](design_mode/dm.md)
     * [MVP](design_mode/mvp.md)
     * [MVVM](design_mode/mvvm.md)
     * [AAC](design_mode/aac.md)
-
 - Android开源
     * [开源项目](open_source/os-project.md)
     * [开源库](open_source/os-lib.md)
@@ -69,10 +62,8 @@ Chapter|Description
     * [开源库的发布](open_source/os-project-publish.md)
     * [开源协议](open_source/os-protocol.md)
     * [其他](open_source/others.md)
-
 - Android人工智能
     * [人脸识别](artificial_intelligence/face-identification.md)
-
 - [Android第三方服务](third-party_service/third-party_service.md)
     * [第三方接口](third-party_service/api.md)
     * Tencent
@@ -83,12 +74,10 @@ Chapter|Description
     * [Mob](third-party_service/mob.md)
     * [支付服务](third-party_service/pay.md)
     * [地图定位服务](third-party_service/map-location.md)
-
 - [AndroidStudio](androidstudio/as.md)
     * [Intellij Idea快捷键](androidstudio/shortcuts.md)
     * [打包签名](androidstudio/signature.md)
     * [混淆配置](androidstudio/proguard.md)
-
 - Android进阶
     * [图片处理](advance/picture.md)
     * [图表应用](advance/chat.md)
@@ -98,16 +87,13 @@ Chapter|Description
     * [热修复、热更新](advance/hotfix.md)
     * [插件化](advance/pluggable.md)
     * [源码分析](advance/source-code.md)
-
 - [Android数据算法](data_algorithm/algorithm.md)
     * [贝塞尔曲线](data_algorithm/bezier.md)
     * [二叉树](data_algorithm/binary-tree.md)
-
 - Google Developers
     * [Dart](google_developers/dart.md)
     * [ARCore](google_developers/ARCore.md)
     * [Flutter](google_developers/flutter.md)
-
 - [Android总结与面试](summary_interview/interview.md)
     * [Android简历](summary_interview/resume.md)
     * [Android总结](summary_interview/summary.md)
@@ -115,7 +101,6 @@ Chapter|Description
     * [Android面试](summary_interview/android_interview/android-interview.md)
       * [BAT面试大纲](summary_interview/android_interview/interview-outline.md)
       * [一天一题](summary_interview/android_interview/eday-equestion.md)
-
 - Android其他
     * [GitHub](others/github.md)
     * [GitBook](others/gitbook.md)
@@ -125,7 +110,7 @@ Chapter|Description
 
 
 ## 重点推荐
-* [**AndroidLibs**](https://github.com/XXApple/AndroidLibs)，
+* [**AndroidLibs**](https://github.com/XXApple/AndroidLibs)
 * [Google官方Android教程](http://hukai.me/android-training-course-in-chinese/index.html)
 * [**2017Android学习路线图**](http://bbs.itheima.com/thread-338469-1-1.html)
 * [**IntelliJ编辑器工具教程**](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
