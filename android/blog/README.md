@@ -53,6 +53,8 @@
 - [**伯努力不努力 --- 推荐博客（Android基础知识）**](https://my.csdn.net/u012124438)
 - [**HollisChuang's Blog --- 推荐博客（Java基础知识） **](http://www.hollischuang.com/)
 - [〤twinkle╰ つ青春](http://blog.csdn.net/jie1123161402/article/list/2)
+- [**Android开源与干货网站汇总**](https://blog.csdn.net/qq_17766199/article/details/47397395)
+- [**唯鹿的博客**](https://blog.csdn.net/qq_17766199)
 
 
 #### 4、简书
