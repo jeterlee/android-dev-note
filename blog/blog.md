@@ -19,7 +19,7 @@
 #### 3、博客
 - [**技术胖博客**](http://jspang.com/)
 - [**玩Android（Hongyang的博客）**](http://www.wanandroid.com/)
-- [**Hongyang**](http://blog.csdn.net/lmj623565791/)
+- [**Hongyang（重点推荐）**](http://blog.csdn.net/lmj623565791/)
 - [**Blankj**](https://blankj.com/)
 - [**我是一只香脆的大鸡排**](http://dajipai.cc/)
 - [**安卓开发**](http://jp1017.top/)
@@ -33,7 +33,8 @@
 - [**吴佳峻**](http://blog.csdn.net/wu928320442)
 - [Mirs_sir](http://my.csdn.net/a109340)
 - [jk's Blog](http://blog.zhangjikai.com/)
-- [**Hensen_**](https://blog.csdn.net/qq_30379689)
+- [**Hensen_（重点推荐）**](https://blog.csdn.net/qq_30379689)
+- [**androidstarjack（重点推荐）**](https://blog.csdn.net/androidstarjack)
 
 
 ### 重点推荐
