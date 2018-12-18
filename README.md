@@ -118,6 +118,7 @@ Chapter|Description
 * [**Android-Best-Practices**](https://github.com/tianzhijiexian/Android-Best-Practices)
 * [**【新版】Android技术博客精华汇总**](http://www.apkbus.com/thread-313856-1-1.html)
 * [**本人多年珍藏的Android开发必备网站和工具**](http://www.apkbus.com/blog-944603-77135.html)
+* [Awesome-Android-Notebook](https://github.com/JsonChao/Awesome-Android-Notebook)
 
 
 ## License
