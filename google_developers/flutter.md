@@ -1,8 +1,7 @@
 ## Flutter
 
-[**awesome-flutter**](https://github.com/Solido/awesome-flutter)
-[**Flutter教程**](http://blog.csdn.net/column/details/13593.html)
-
+- [**awesome-flutter**](https://github.com/Solido/awesome-flutter)
+- [**Flutter教程**](http://blog.csdn.net/column/details/13593.html)
 - [Flutter学习---Flutter环境搭建与入门](https://blog.csdn.net/hnwx7880/article/details/79653328)
 
 
